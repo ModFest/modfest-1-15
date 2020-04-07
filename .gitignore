@@ -3,6 +3,8 @@ logs/
 .gradle/
 out/
 reports/
-build/_upload/multimc-fat/
-build/_upload/experimental/
-build/experimental_workspace/modfest/src/mods
+build/
+Thumbs.db
+.DS_Store
+local.properties
+.directory
