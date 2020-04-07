@@ -14,7 +14,7 @@ root<Curse> {
     +FabricMod.underpowered //TODO: TR crash
     +FabricMod.cornflower
     +FabricMod.composing
-    +FabricMod.campanion //TODO: mixin crash
+//    +FabricMod.campanion //TODO: mixin crash and fails to resolve
 //    +FabricMod.lint //TODO: mixin fix propagation, added below
     +FabricMod.esther
     +ProjectID(373504) //tenor
@@ -139,6 +139,10 @@ root<Curse> {
       +"littleRocketMan" {
         url = "https://cdn.discordapp.com/attachments/528472643221848085/694976720930996344/LittleRocketMan-1.0.0.jar"
         description = "Little Rocket Man is a mod that adds Gnome Chompski into the world of minecraft. His mission is to reach space by any means necessary... Your mission is to help him with that."
+      }
+      +"modfest-extras" {
+        url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0/modfest-extras.jar"
+        description = "Extra Resources for the ModFest 1.15 Modpack"
       }
     }
   }

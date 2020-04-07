@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Extra Resources for the ModFest 1.15 Modpack"
+    },
+    "url": "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0/modfest-extras.jar"
+}

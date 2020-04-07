@@ -43,21 +43,6 @@ Url |  | https://github.com/TeamSuperPeople/azuma/releases/download/1.2.0-beta-1
 
 
 
-added `campanion`
-
-Property | old value | new value
----|---|---
-ID |  | campanion
-Version |  | campanion-1.0.2.jar
-Provider |  | CURSE
-Side |  | BOTH
-Optional |  | false
-Required Dependencies |  | fabric-api
-Release Type |  | Beta
-CF Authors |  | neusfear, ProspectorDev, wyn_price
-
-
-
 added `capybaracommune`
 
 Property | old value | new value
@@ -421,6 +406,20 @@ Side |  | BOTH
 Optional |  | false
 Release Type |  | Release
 CF Authors |  | ProspectorDev
+
+
+
+added `modfest-extras`
+
+Property | old value | new value
+---|---|---
+ID |  | modfest-extras
+Version |  | modfest-extras
+Provider |  | DIRECT
+Side |  | BOTH
+Description |  | Extra Resources for the ModFest 1.15 Modpack
+Optional |  | false
+Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0/modfest-extras.jar
 
 
 

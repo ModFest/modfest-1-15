@@ -29,17 +29,6 @@ Description | Our mod adds a special crafting system powered by a magical energy
 Optional | false
 Url | https://github.com/TeamSuperPeople/azuma/releases/download/1.2.0-beta-1.15.2/azuma-1.2.0.jar
 
-Mod | Campanion
----|---
-ID | campanion
-Version | campanion-1.0.2.jar
-Provider | CURSE
-Side | BOTH
-Optional | false
-Required Dependencies | fabric-api
-Release Type | Beta
-CF Authors | neusfear, ProspectorDev, wyn_price
-
 Mod | capybaraCommune
 ---|---
 ID | capybaraCommune
@@ -301,6 +290,16 @@ Side | BOTH
 Optional | false
 Release Type | Release
 CF Authors | ProspectorDev
+
+Mod | modfest-extras
+---|---
+ID | modfest-extras
+Version | modfest-extras
+Provider | DIRECT
+Side | BOTH
+Description | Extra Resources for the ModFest 1.15 Modpack
+Optional | false
+Url | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0/modfest-extras.jar
 
 Mod | offShorePlus
 ---|---
