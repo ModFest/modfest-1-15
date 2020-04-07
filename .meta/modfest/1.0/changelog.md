@@ -34,7 +34,7 @@ added `azuma`
 Property | old value | new value
 ---|---|---
 ID |  | azuma
-Version |  | azuma-1.2.0.jar
+Version |  | azuma-1.2.1-beta.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -48,11 +48,13 @@ added `campanion`
 Property | old value | new value
 ---|---|---
 ID |  | campanion
-Version |  | campanion-1.0.4
-Provider |  | DIRECT
+Version |  | campanion-1.0.4.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/690311875287580743/696901749939765278/campanion-1.0.4.jar
+Required Dependencies |  | fabric-api
+Release Type |  | Beta
+CF Authors |  | neusfear, ProspectorDev, wyn_price
 
 
 
@@ -90,7 +92,7 @@ added `composing`
 Property | old value | new value
 ---|---|---
 ID |  | composing
-Version |  | composing-1.0.0+1.15.2.jar
+Version |  | composing-1.0.1+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -105,7 +107,7 @@ added `cornflower`
 Property | old value | new value
 ---|---|---
 ID |  | cornflower
-Version |  | Cornflower-1.1.0+fabric.1.15.2.jar
+Version |  | Cornflower-1.2.0+fabric.1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -203,7 +205,7 @@ added `esther`
 Property | old value | new value
 ---|---|---
 ID |  | esther
-Version |  | esther-1.0.0.jar
+Version |  | Esther-1.0.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -259,7 +261,7 @@ added `fabric-language-scala`
 Property | old value | new value
 ---|---|---
 ID |  | fabric-language-scala
-Version |  | fabric-language-scala-0.3.1.11-fat.jar
+Version |  | fabric-language-scala-0.3.2.12-fat.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -373,11 +375,12 @@ added `lint`
 Property | old value | new value
 ---|---|---
 ID |  | lint
-Version |  | lint-1.1.0
-Provider |  | DIRECT
+Version |  | lint-1.0.0.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/696868182635315312/696870819460153364/lint-1.1.0.jar
+Release Type |  | Release
+CF Authors |  | hydos06
 
 
 
@@ -414,7 +417,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.0.0.jar
+Version |  | Mechanized-1.0.1.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -462,20 +465,22 @@ Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Extra Resources for the ModFest 1.15 Modpack
 Optional |  | false
-Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.2/modfest-extras.jar
+Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.3/modfest-extras.jar
 
 
 
-added `netweight`
+added `net-weight`
 
 Property | old value | new value
 ---|---|---
-ID |  | netweight
-Version |  | net-weight-0.1.0-alpha+custom-1.15
-Provider |  | DIRECT
+ID |  | net-weight
+Version |  | net-weight-0.1.0-alpha+custom-1.15.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://github.com/UpcraftLP/Net-Weight/releases/download/0.1.0-alpha%2Bmodfest/net-weight-0.1.0-alpha+custom-1.15.jar
+Required Dependencies |  | fabric-api
+Release Type |  | Beta
+CF Authors |  | UpcraftLP
 
 
 
@@ -504,6 +509,20 @@ Side |  | BOTH
 Description |  | Creates a new dimension with an old decaying city hidden among the overgrown wilderness with an Abandoned Warehouse in the Overworld to let you enter it!
 Optional |  | false
 Url |  | https://github.com/SuperCoder7979/overgrowncities/releases/download/0.1.0/overgrowncities-0.1.0.jar
+
+
+
+added `reborncore`
+
+Property | old value | new value
+---|---|---
+ID |  | reborncore
+Version |  | RebornCore-1.15-4.2.5+build.108.jar
+Provider |  | CURSE
+Side |  | BOTH
+Optional |  | false
+Release Type |  | Release
+CF Authors |  | GigaBit101, modmuss50, ProspectorDev
 
 
 
@@ -556,38 +575,27 @@ added `saltsmill`
 Property | old value | new value
 ---|---|---
 ID |  | saltsMill
-Version |  | Salts.Mill-0.2
+Version |  | Salts.Mill-0.3
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Loads custom mods as "cassettes" from WAV files
 Optional |  | false
-Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.2/Salts.Mill-0.2.jar
+Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.3/Salts.Mill-0.3.jar
 
 
 
-added `simpleaccessories`
-
-Property | old value | new value
----|---|---
-ID |  | simpleaccessories
-Version |  | simpleaccessories-0.1.3
-Provider |  | DIRECT
-Side |  | BOTH
-Optional |  | false
-Url |  | https://github.com/rjmunhoz/simple-accessories/releases/download/v0.1.3/simpleaccessories-0.1.3.jar
-
-
-
-added `sodium`
+added `simple-accessories-fabric`
 
 Property | old value | new value
 ---|---|---
-ID |  | sodium
-Version |  | sodium-mc1.15.2-fabric-0.1.0
-Provider |  | DIRECT
+ID |  | simple-accessories-fabric
+Version |  | simpleaccessories-0.1.3.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/690311875287580743/696873450878533702/sodium-mc1.15.2-fabric-0.1.0.jar
+Required Dependencies |  | trinkets-fabric, fabric-api
+Release Type |  | Beta
+CF Authors |  | rjmunhoz
 
 
 
@@ -623,11 +631,13 @@ added `techreborn`
 Property | old value | new value
 ---|---|---
 ID |  | techreborn
-Version |  | TechReborn-1.15-3.3.6%2Bbuild.207
-Provider |  | DIRECT
+Version |  | TechReborn-1.15-3.3.7+build.210.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://maven.fabricmc.net/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar
+Required Dependencies |  | reborncore
+Release Type |  | Release
+CF Authors |  | drcrazy777, modmuss50
 
 
 
@@ -659,17 +669,30 @@ Url |  | https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.0/the_
 
 
 
+added `trinkets-fabric`
+
+Property | old value | new value
+---|---|---
+ID |  | trinkets-fabric
+Version |  | trinkets-2.4.2.jar
+Provider |  | CURSE
+Side |  | BOTH
+Optional |  | false
+Release Type |  | Release
+CF Authors |  | EmilyPloszaj
+
+
+
 added `underpowered`
 
 Property | old value | new value
 ---|---|---
 ID |  | underpowered
-Version |  | Underpowered-1.15.2-fabric-1.0.0.jar
-Provider |  | CURSE
+Version |  | Underpowered-1.15.2-fabric-1.0.2
+Provider |  | DIRECT
 Side |  | BOTH
 Optional |  | false
-Release Type |  | Release
-CF Authors |  | abecderic
+Url |  | https://cdn.discordapp.com/attachments/696494482698535052/697103427515318322/Underpowered-1.15.2-fabric-1.0.2.jar
 
 
 

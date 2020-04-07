@@ -25,6 +25,7 @@ voodoo {
         pack().multimcFat()
         pack().server()
         pack().experimental()
+        pack().multimcExperimental()
     }
 
     generateCurseforgeMods("FabricMod", "1.15", "1.15.1", "1.15.2", categories = listOf("Fabric"))

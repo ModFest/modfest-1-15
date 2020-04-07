@@ -1,5 +1,4 @@
 {
-    "type": "voodoo.data.lock.LockEntry.Curse",
-    "projectID": 373435,
-    "fileID": 2922066
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "url": "https://cdn.discordapp.com/attachments/696494482698535052/697103427515318322/Underpowered-1.15.2-fabric-1.0.2.jar"
 }

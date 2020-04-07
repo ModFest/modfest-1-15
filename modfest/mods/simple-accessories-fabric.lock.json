@@ -1,0 +1,13 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "trinkets-fabric",
+                "fabric-api"
+            ]
+        }
+    },
+    "projectID": 373156,
+    "fileID": 2922181
+}
