@@ -133,7 +133,7 @@ root<Curse> {
 
       //assistant mods
       +"modfest-extras" {
-        url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.2/modfest-extras.jar"
+        url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.3/modfest-extras.jar"
         description = "Extra Resources for the ModFest 1.15 Modpack"
       }
 //      +"sodium" { //TODO: add in if it becomes stable by the time the pack goes out

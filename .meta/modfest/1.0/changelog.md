@@ -34,7 +34,7 @@ added `azuma`
 Property | old value | new value
 ---|---|---
 ID |  | azuma
-Version |  | azuma-1.2.0.jar
+Version |  | azuma-1.2.1-beta.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -90,7 +90,7 @@ added `composing`
 Property | old value | new value
 ---|---|---
 ID |  | composing
-Version |  | composing-1.0.0+1.15.2.jar
+Version |  | composing-1.0.1+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -203,7 +203,7 @@ added `esther`
 Property | old value | new value
 ---|---|---
 ID |  | esther
-Version |  | esther-1.0.0.jar
+Version |  | Esther-1.0.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -259,7 +259,7 @@ added `fabric-language-scala`
 Property | old value | new value
 ---|---|---
 ID |  | fabric-language-scala
-Version |  | fabric-language-scala-0.3.1.11-fat.jar
+Version |  | fabric-language-scala-0.3.2.12-fat.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -414,7 +414,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.0.0.jar
+Version |  | Mechanized-1.0.1.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -462,7 +462,7 @@ Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Extra Resources for the ModFest 1.15 Modpack
 Optional |  | false
-Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.2/modfest-extras.jar
+Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.3/modfest-extras.jar
 
 
 
@@ -575,19 +575,6 @@ Provider |  | DIRECT
 Side |  | BOTH
 Optional |  | false
 Url |  | https://github.com/rjmunhoz/simple-accessories/releases/download/v0.1.3/simpleaccessories-0.1.3.jar
-
-
-
-added `sodium`
-
-Property | old value | new value
----|---|---
-ID |  | sodium
-Version |  | sodium-mc1.15.2-fabric-0.1.0
-Provider |  | DIRECT
-Side |  | BOTH
-Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/690311875287580743/696873450878533702/sodium-mc1.15.2-fabric-0.1.0.jar
 
 
 
