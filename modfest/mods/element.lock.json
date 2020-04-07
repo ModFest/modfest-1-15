@@ -1,7 +1,0 @@
-{
-    "type": "voodoo.data.lock.LockEntry.Direct",
-    "common": {
-        "description": "Adds magic blocks to repair iron tools"
-    },
-    "url": "https://github.com/michaelPoul/element/releases/download/v1.0/element-1.0.0.jar"
-}

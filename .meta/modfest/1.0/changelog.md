@@ -34,12 +34,12 @@ added `azuma`
 Property | old value | new value
 ---|---|---
 ID |  | azuma
-Version |  | azuma-1.2.0
-Provider |  | DIRECT
+Version |  | azuma-1.2.0.jar
+Provider |  | CURSE
 Side |  | BOTH
-Description |  | Our mod adds a special crafting system powered by a magical energy alongside several useful utility items and tools.
 Optional |  | false
-Url |  | https://github.com/TeamSuperPeople/azuma/releases/download/1.2.0-beta-1.15.2/azuma-1.2.0.jar
+Release Type |  | Beta
+CF Authors |  | azunah___, Draylar1, TeamSuperPeople
 
 
 
@@ -48,13 +48,11 @@ added `campanion`
 Property | old value | new value
 ---|---|---
 ID |  | campanion
-Version |  | campanion-1.0.2.jar
-Provider |  | CURSE
+Version |  | campanion-1.0.4
+Provider |  | DIRECT
 Side |  | BOTH
 Optional |  | false
-Required Dependencies |  | fabric-api
-Release Type |  | Beta
-CF Authors |  | neusfear, ProspectorDev, wyn_price
+Url |  | https://cdn.discordapp.com/attachments/690311875287580743/696901749939765278/campanion-1.0.4.jar
 
 
 
@@ -121,12 +119,12 @@ added `crimson`
 Property | old value | new value
 ---|---|---
 ID |  | crimson
-Version |  | crimson-1.0.2
+Version |  | crimson-1.0.3
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Adds a dangerous new crimson biome linked to a system of crafting magic devices from imbued gemstones
 Optional |  | false
-Url |  | https://github.com/valoeghese/Crimson/releases/download/v1.0.2/crimson-1.0.2.jar
+Url |  | https://github.com/valoeghese/Crimson/releases/download/v1.0.3/crimson-1.0.3.jar
 
 
 
@@ -172,11 +170,11 @@ Url |  | https://ci.dblsaiko.net/job/drones/lastSuccessfulBuild/artifact/build/l
 
 
 
-added `element`
+added `elementcycle`
 
 Property | old value | new value
 ---|---|---
-ID |  | element
+ID |  | elementCycle
 Version |  | element-1.0.0
 Provider |  | DIRECT
 Side |  | BOTH
@@ -222,7 +220,7 @@ ID |  | extraDetectors
 Version |  | extradetectors-0.0.1
 Provider |  | DIRECT
 Side |  | BOTH
-Description |  | Adds a weather detector similar to a daylight sensor
+Description |  | Adds a weather detector similar to a clock
 Optional |  | false
 Url |  | https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.1/extradetectors-0.0.1.jar
 
@@ -342,17 +340,31 @@ Url |  | https://github.com/Earthcomputer/Kevlar/releases/download/v1.0/kevlar-1
 
 
 
-added `liltater`
+added `libgui`
 
 Property | old value | new value
 ---|---|---
-ID |  | lilTater
-Version |  | lil-tater-0.9.1-SNAPSHOT
-Provider |  | DIRECT
+ID |  | libgui
+Version |  | LibGui-1.8.0+1.15.2.jar
+Provider |  | CURSE
 Side |  | BOTH
-Description |  | Adds lil' taters to the game. Crucial for any modded instance.
 Optional |  | false
-Url |  | https://github.com/Vatuu/lil-Tater/releases/download/0.9-SNAPSHOT/lil-tater-0.9.1-SNAPSHOT.jar
+Release Type |  | Release
+CF Authors |  | B0undarybreaker, falkreon, Juicebus
+
+
+
+added `lil-tater`
+
+Property | old value | new value
+---|---|---
+ID |  | lil-tater
+Version |  | lil-tater-0.9.1-SNAPSHOT.jar
+Provider |  | CURSE
+Side |  | BOTH
+Optional |  | false
+Release Type |  | Beta
+CF Authors |  | VatuuKomalia
 
 
 
@@ -397,16 +409,32 @@ Url |  | https://cdn.discordapp.com/attachments/528472643221848085/6949767209309
 
 
 
-added `mechanized`
+added `mechanized-steam-power`
 
 Property | old value | new value
 ---|---|---
-ID |  | mechanized
-Version |  | Mechanized-1.0.0
-Provider |  | DIRECT
+ID |  | mechanized-steam-power
+Version |  | Mechanized-1.0.0.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://github.com/Snakefangox/Mechanized/releases/download/modfest/Mechanized-1.0.0.jar
+Required Dependencies |  | libgui
+Release Type |  | Release
+CF Authors |  | snakefangox
+
+
+
+added `metalsupply`
+
+Property | old value | new value
+---|---|---
+ID |  | metalSupply
+Version |  | metal-supply-1.0.0
+Provider |  | DIRECT
+Side |  | BOTH
+Description |  | Adds Crank and Grinder inspired by Applied Energistics' Grindstone, and 5 new metals: lead, tin, copper, silver and bronze.
+Optional |  | false
+Url |  | https://github.com/Reoseah/metal-supply/releases/download/modfest/metal-supply-1.0.0.jar
 
 
 
@@ -424,6 +452,33 @@ CF Authors |  | ProspectorDev
 
 
 
+added `modfest-extras`
+
+Property | old value | new value
+---|---|---
+ID |  | modfest-extras
+Version |  | modfest-extras
+Provider |  | DIRECT
+Side |  | BOTH
+Description |  | Extra Resources for the ModFest 1.15 Modpack
+Optional |  | false
+Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.2/modfest-extras.jar
+
+
+
+added `netweight`
+
+Property | old value | new value
+---|---|---
+ID |  | netweight
+Version |  | net-weight-0.1.0-alpha+custom-1.15
+Provider |  | DIRECT
+Side |  | BOTH
+Optional |  | false
+Url |  | https://github.com/UpcraftLP/Net-Weight/releases/download/0.1.0-alpha%2Bmodfest/net-weight-0.1.0-alpha+custom-1.15.jar
+
+
+
 added `offshoreplus`
 
 Property | old value | new value
@@ -438,17 +493,17 @@ Url |  | https://github.com/trewghil/offshoreplus/releases/download/0.0.1/offsho
 
 
 
-added `reborncore`
+added `overgrowncities`
 
 Property | old value | new value
 ---|---|---
-ID |  | reborncore
-Version |  | RebornCore-1.15-4.2.5+build.108.jar
-Provider |  | CURSE
+ID |  | overgrownCities
+Version |  | overgrowncities-0.1.0
+Provider |  | DIRECT
 Side |  | BOTH
+Description |  | Creates a new dimension with an old decaying city hidden among the overgrown wilderness with an Abandoned Warehouse in the Overworld to let you enter it!
 Optional |  | false
-Release Type |  | Release
-CF Authors |  | GigaBit101, modmuss50, ProspectorDev
+Url |  | https://github.com/SuperCoder7979/overgrowncities/releases/download/0.1.0/overgrowncities-0.1.0.jar
 
 
 
@@ -501,12 +556,38 @@ added `saltsmill`
 Property | old value | new value
 ---|---|---
 ID |  | saltsMill
-Version |  | Salts.Mill-0.1
+Version |  | Salts.Mill-0.2
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Loads custom mods as "cassettes" from WAV files
 Optional |  | false
-Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.1/Salts.Mill-0.1.jar
+Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.2/Salts.Mill-0.2.jar
+
+
+
+added `simpleaccessories`
+
+Property | old value | new value
+---|---|---
+ID |  | simpleaccessories
+Version |  | simpleaccessories-0.1.3
+Provider |  | DIRECT
+Side |  | BOTH
+Optional |  | false
+Url |  | https://github.com/rjmunhoz/simple-accessories/releases/download/v0.1.3/simpleaccessories-0.1.3.jar
+
+
+
+added `sodium`
+
+Property | old value | new value
+---|---|---
+ID |  | sodium
+Version |  | sodium-mc1.15.2-fabric-0.1.0
+Provider |  | DIRECT
+Side |  | BOTH
+Optional |  | false
+Url |  | https://cdn.discordapp.com/attachments/690311875287580743/696873450878533702/sodium-mc1.15.2-fabric-0.1.0.jar
 
 
 
@@ -542,13 +623,11 @@ added `techreborn`
 Property | old value | new value
 ---|---|---
 ID |  | techreborn
-Version |  | TechReborn-1.15-3.3.6+build.205.jar
-Provider |  | CURSE
+Version |  | TechReborn-1.15-3.3.6%2Bbuild.207
+Provider |  | DIRECT
 Side |  | BOTH
 Optional |  | false
-Required Dependencies |  | reborncore
-Release Type |  | Release
-CF Authors |  | drcrazy777, modmuss50
+Url |  | https://maven.fabricmc.net/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar
 
 
 
@@ -614,12 +693,12 @@ added `vantacine`
 Property | old value | new value
 ---|---|---
 ID |  | vantacine
-Version |  | vantacine-1.0.0-modfest
+Version |  | vantacine-1.0.0
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Improves the Nether through miscellaneous additions that bring together utility, decoration, and fun.
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/692799982058864650/696851421672374272/vantacine-1.0.0-modfest.jar
+Url |  | https://cdn.discordapp.com/attachments/692799982058864650/696924186861633617/vantacine-1.0.0.jar
 
 
 

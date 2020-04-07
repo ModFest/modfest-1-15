@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Adds Crank and Grinder inspired by Applied Energistics' Grindstone, and 5 new metals: lead, tin, copper, silver and bronze."
+    },
+    "url": "https://github.com/Reoseah/metal-supply/releases/download/modfest/metal-supply-1.0.0.jar"
+}

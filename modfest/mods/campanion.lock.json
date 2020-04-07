@@ -1,12 +1,4 @@
 {
-    "type": "voodoo.data.lock.LockEntry.Curse",
-    "common": {
-        "dependencies": {
-            "REQUIRED": [
-                "fabric-api"
-            ]
-        }
-    },
-    "projectID": 373138,
-    "fileID": 2922783
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "url": "https://cdn.discordapp.com/attachments/690311875287580743/696901749939765278/campanion-1.0.4.jar"
 }
