@@ -141,7 +141,7 @@ root<Curse> {
         description = "Little Rocket Man is a mod that adds Gnome Chompski into the world of minecraft. His mission is to reach space by any means necessary... Your mission is to help him with that."
       }
       +"modfest-extras" {
-        url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0/modfest-extras.jar"
+        url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.2/modfest-extras.jar"
         description = "Extra Resources for the ModFest 1.15 Modpack"
       }
     }

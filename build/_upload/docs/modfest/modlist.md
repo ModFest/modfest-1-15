@@ -299,7 +299,7 @@ Provider | DIRECT
 Side | BOTH
 Description | Extra Resources for the ModFest 1.15 Modpack
 Optional | false
-Url | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0/modfest-extras.jar
+Url | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.2/modfest-extras.jar
 
 Mod | offShorePlus
 ---|---
