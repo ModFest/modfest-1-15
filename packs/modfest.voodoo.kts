@@ -43,7 +43,7 @@ root<Curse> {
     //direct links
     withTypeClass(Direct::class) {
     }.list {
-      +"capybaraCommune" {
+      +"capybaraCommune" {//TODO: update once FOML is removed
         url = "https://github.com/mjart/capybara-commune/releases/download/1.0/capybara-commune-1.0.jar"
         description = "A Mod which adds the amazing animal 'the Capybara' which chills out all aggressive mobs."
       }
@@ -104,8 +104,8 @@ root<Curse> {
         url = "https://github.com/SuperCoder7979/overgrowncities/releases/download/0.1.0/overgrowncities-0.1.0.jar"
         description = "Creates a new dimension with an old decaying city hidden among the overgrown wilderness with an Abandoned Warehouse in the Overworld to let you enter it!"
       }
-      +"reichenbach" { //TODO: FOML crash
-        url = "https://voxel.games/thesupersecretsection/reichenbach-0.0.1.jar"
+      +"reichenbach" {
+        url = "https://cdn.discordapp.com/attachments/627962741826650123/696986713351913506/reichenbach-0.0.1.jar"
         description = "Inspired by Satisfactory & Factorio, Reichenbach aims to distance itself from usual tech mods through interesting crafting mechanics & machinery."
       }
       +"saltsMill" {
@@ -136,9 +136,9 @@ root<Curse> {
         url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.2/modfest-extras.jar"
         description = "Extra Resources for the ModFest 1.15 Modpack"
       }
-      +"sodium" { //TODO: curseforge once it's released
-        url = "https://cdn.discordapp.com/attachments/690311875287580743/696873450878533702/sodium-mc1.15.2-fabric-0.1.0.jar"
-      }
+//      +"sodium" { //TODO: add in if it becomes stable by the time the pack goes out
+//        url = "https://cdn.discordapp.com/attachments/690311875287580743/696873450878533702/sodium-mc1.15.2-fabric-0.1.0.jar"
+//      }
       +"techreborn" {
         url = "https://maven.fabricmc.net/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar"
       }

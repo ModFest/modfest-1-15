@@ -517,7 +517,7 @@ Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Inspired by Satisfactory & Factorio, Reichenbach aims to distance itself from usual tech mods through interesting crafting mechanics & machinery.
 Optional |  | false
-Url |  | https://voxel.games/thesupersecretsection/reichenbach-0.0.1.jar
+Url |  | https://cdn.discordapp.com/attachments/627962741826650123/696986713351913506/reichenbach-0.0.1.jar
 
 
 
