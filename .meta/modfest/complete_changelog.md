@@ -63,12 +63,12 @@ added `capybaracommune`
 Property | old value | new value
 ---|---|---
 ID |  | capybaraCommune
-Version |  | capybara-commune-1.0
+Version |  | capybara-commune-1.1
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | A Mod which adds the amazing animal 'the Capybara' which chills out all aggressive mobs.
 Optional |  | false
-Url |  | https://github.com/mjart/capybara-commune/releases/download/1.0/capybara-commune-1.0.jar
+Url |  | https://github.com/mjart/capybara-commune/releases/download/1.1/capybara-commune-1.1.jar
 
 
 
@@ -375,12 +375,11 @@ added `lint`
 Property | old value | new value
 ---|---|---
 ID |  | lint
-Version |  | lint-1.0.0.jar
-Provider |  | CURSE
+Version |  | lint-1.2.0
+Provider |  | DIRECT
 Side |  | BOTH
 Optional |  | false
-Release Type |  | Release
-CF Authors |  | hydos06
+Url |  | https://cdn.discordapp.com/attachments/696494482698535052/697013869796655194/lint-1.2.0.jar
 
 
 
@@ -512,20 +511,6 @@ Url |  | https://github.com/SuperCoder7979/overgrowncities/releases/download/0.1
 
 
 
-added `reborncore`
-
-Property | old value | new value
----|---|---
-ID |  | reborncore
-Version |  | RebornCore-1.15-4.2.5+build.108.jar
-Provider |  | CURSE
-Side |  | BOTH
-Optional |  | false
-Release Type |  | Release
-CF Authors |  | GigaBit101, modmuss50, ProspectorDev
-
-
-
 added `reichenbach`
 
 Property | old value | new value
@@ -545,7 +530,7 @@ added `reliccraft`
 Property | old value | new value
 ---|---|---
 ID |  | reliccraft
-Version |  | reliccraft-1.0.6+1.15.2.jar
+Version |  | reliccraft-1.0.7+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -589,7 +574,7 @@ added `simple-accessories-fabric`
 Property | old value | new value
 ---|---|---
 ID |  | simple-accessories-fabric
-Version |  | simpleaccessories-0.1.3.jar
+Version |  | simpleaccessories-0.1.4.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -613,16 +598,17 @@ Url |  | https://immibisdotcom.s3.amazonaws.com/mcmoddl/modfest2/compuglobalhype
 
 
 
-added `tacocraft`
+added `tacocraft-fabric`
 
 Property | old value | new value
 ---|---|---
-ID |  | tacocraft
-Version |  | tacocraft-1.0.0
-Provider |  | DIRECT
+ID |  | tacocraft-fabric
+Version |  | tacocraft-1.0.0.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://github.com/franiscoder/TacoCraft/releases/download/1.0.0/tacocraft-1.0.0.jar
+Release Type |  | Release
+CF Authors |  | franiscoder
 
 
 
@@ -631,13 +617,11 @@ added `techreborn`
 Property | old value | new value
 ---|---|---
 ID |  | techreborn
-Version |  | TechReborn-1.15-3.3.7+build.210.jar
-Provider |  | CURSE
+Version |  | TechReborn-1.15-3.3.6%2Bbuild.207
+Provider |  | DIRECT
 Side |  | BOTH
 Optional |  | false
-Required Dependencies |  | reborncore
-Release Type |  | Release
-CF Authors |  | drcrazy777, modmuss50
+Url |  | http://maven.modmuss50.me/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar
 
 
 
@@ -688,11 +672,12 @@ added `underpowered`
 Property | old value | new value
 ---|---|---
 ID |  | underpowered
-Version |  | Underpowered-1.15.2-fabric-1.0.2
-Provider |  | DIRECT
+Version |  | Underpowered-1.15.2-fabric-1.0.2.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/696494482698535052/697103427515318322/Underpowered-1.15.2-fabric-1.0.2.jar
+Release Type |  | Release
+CF Authors |  | abecderic
 
 
 

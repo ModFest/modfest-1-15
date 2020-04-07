@@ -1,5 +1,4 @@
 {
-    "type": "voodoo.data.lock.LockEntry.Curse",
-    "projectID": 373071,
-    "fileID": 2922229
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "url": "https://cdn.discordapp.com/attachments/696494482698535052/697013869796655194/lint-1.2.0.jar"
 }

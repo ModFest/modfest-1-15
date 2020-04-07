@@ -2,6 +2,7 @@ mcVersion = "1.15.2"
 title = "Modfest"
 authors = listOf("b0undarybreaker")
 modloader { fabric(Fabric.intermediary.v_1_15_2) }
+icon = rootDir.resolve("icon.png")
 
 pack {
   multimc {
@@ -29,9 +30,9 @@ root<Curse> {
     +ProjectID(306170) //net weight
     +FabricMod.reliccraft
     +ProjectID(373156) //simple accessories
-//    +FabricMod.tacocraftFabric //TODO: move back here once fingerprint bug is fixed, added below
+    +FabricMod.tacocraftFabric //TODO: move back here once fingerprint bug is fixed, added below
     +ProjectID(373504) //tenor
-//    +FabricMod.underpowered //TODO: move back here once fingerprint bug is fixed, added below
+    +FabricMod.underpowered //TODO: move back here once fingerprint bug is fixed, added below
     +ProjectID(373581) //unfortunately
     +FabricMod.yungsBetterMineshaftsFabric
 
@@ -39,7 +40,7 @@ root<Curse> {
     +FabricMod.fabricApi
     +FabricMod.fabricLanguageKotlin
     +ProjectID(309275) //fabric language scala TODO: server crash
-    +FabricMod.techreborn
+//    +FabricMod.techreborn //TODO: move back once lint fixes dep
     +FabricMod.trinketsFabric
 
     //assistant mods
@@ -53,7 +54,7 @@ root<Curse> {
     withTypeClass(Direct::class) {
     }.list {
       +"capybaraCommune" {//TODO: update once FOML is removed
-        url = "https://github.com/mjart/capybara-commune/releases/download/1.0/capybara-commune-1.0.jar"
+        url = "https://github.com/mjart/capybara-commune/releases/download/1.1/capybara-commune-1.1.jar"
         description = "A Mod which adds the amazing animal 'the Capybara' which chills out all aggressive mobs."
       }
       +"crimson" {
@@ -119,16 +120,16 @@ root<Curse> {
         url = "https://immibisdotcom.s3.amazonaws.com/mcmoddl/modfest2/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.0.jar"
         description = "Makes it painful to use your inventory"
       }
-      +"tacocraft" { //TODO: remove once fingerprint fixes
-        url = "https://github.com/franiscoder/TacoCraft/releases/download/1.0.0/tacocraft-1.0.0.jar"
-      }
+//      +"tacocraft" { //TODO: remove once fingerprint fixes
+//        url = "https://github.com/franiscoder/TacoCraft/releases/download/1.0.0/tacocraft-1.0.0.jar"
+//      }
       +"theBlue" {
         url = "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.0/the_blue-1.15.2-1.0.jar"
         description = "Adds a fishing net block to passively generate fishing loot"
       }
-      +"underpowered" {//TODO: remove once on CF
-        url = "https://cdn.discordapp.com/attachments/696494482698535052/697103427515318322/Underpowered-1.15.2-fabric-1.0.2.jar"
-      }
+//      +"underpowered" {//TODO: remove once fingerprint fixes
+//        url = "https://cdn.discordapp.com/attachments/696494482698535052/697103427515318322/Underpowered-1.15.2-fabric-1.0.2.jar"
+//      }
       +"vantacine" {
         url = "https://cdn.discordapp.com/attachments/692799982058864650/696924186861633617/vantacine-1.0.0.jar"
         description = "Improves the Nether through miscellaneous additions that bring together utility, decoration, and fun."
@@ -142,6 +143,9 @@ root<Curse> {
 //      +"sodium" { //TODO: add in if it becomes stable by the time the pack goes out
 //        url = "https://cdn.discordapp.com/attachments/690311875287580743/696873450878533702/sodium-mc1.15.2-fabric-0.1.0.jar"
 //      }
+      +"techreborn" { //TODO: remove once lint fixes dep
+        url = "http://maven.modmuss50.me/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar"
+      }
     }
   }
 }

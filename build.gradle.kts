@@ -20,6 +20,9 @@ voodoo {
     addTask(name = "pack_experimental") {
         pack().experimental()
     }
+    addTask(name = "mmc_experimental") {
+        pack().multimcExperimental();
+    }
     addTask(name = "buildAndPackAll") {
         build()
         pack().multimcFat()

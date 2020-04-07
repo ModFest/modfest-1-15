@@ -1,12 +1,4 @@
 {
-    "type": "voodoo.data.lock.LockEntry.Curse",
-    "common": {
-        "dependencies": {
-            "REQUIRED": [
-                "reborncore"
-            ]
-        }
-    },
-    "projectID": 233564,
-    "fileID": 2923034
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "url": "http://maven.modmuss50.me/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar"
 }

@@ -29,12 +29,12 @@
     },
     "capybaracommune": {
         "ID": "capybaraCommune",
-        "Version": "capybara-commune-1.0",
+        "Version": "capybara-commune-1.1",
         "Provider": "DIRECT",
         "Side": "BOTH",
         "Description": "A Mod which adds the amazing animal 'the Capybara' which chills out all aggressive mobs.",
         "Optional": "false",
-        "Url": "https://github.com/mjart/capybara-commune/releases/download/1.0/capybara-commune-1.0.jar"
+        "Url": "https://github.com/mjart/capybara-commune/releases/download/1.1/capybara-commune-1.1.jar"
     },
     "chunk-in-a-globe": {
         "ID": "chunk-in-a-globe",
@@ -231,12 +231,11 @@
     },
     "lint": {
         "ID": "lint",
-        "Version": "lint-1.0.0.jar",
-        "Provider": "CURSE",
+        "Version": "lint-1.2.0",
+        "Provider": "DIRECT",
         "Side": "BOTH",
         "Optional": "false",
-        "Release Type": "Release",
-        "CF Authors": "hydos06"
+        "Url": "https://cdn.discordapp.com/attachments/696494482698535052/697013869796655194/lint-1.2.0.jar"
     },
     "lithium": {
         "ID": "lithium",
@@ -321,15 +320,6 @@
         "Optional": "false",
         "Url": "https://github.com/SuperCoder7979/overgrowncities/releases/download/0.1.0/overgrowncities-0.1.0.jar"
     },
-    "reborncore": {
-        "ID": "reborncore",
-        "Version": "RebornCore-1.15-4.2.5+build.108.jar",
-        "Provider": "CURSE",
-        "Side": "BOTH",
-        "Optional": "false",
-        "Release Type": "Release",
-        "CF Authors": "GigaBit101, modmuss50, ProspectorDev"
-    },
     "reichenbach": {
         "ID": "reichenbach",
         "Version": "reichenbach-0.0.1",
@@ -341,7 +331,7 @@
     },
     "reliccraft": {
         "ID": "reliccraft",
-        "Version": "reliccraft-1.0.6+1.15.2.jar",
+        "Version": "reliccraft-1.0.7+1.15.2.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -370,7 +360,7 @@
     },
     "simple-accessories-fabric": {
         "ID": "simple-accessories-fabric",
-        "Version": "simpleaccessories-0.1.3.jar",
+        "Version": "simpleaccessories-0.1.4.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -387,23 +377,22 @@
         "Optional": "false",
         "Url": "https://immibisdotcom.s3.amazonaws.com/mcmoddl/modfest2/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.0.jar"
     },
-    "tacocraft": {
-        "ID": "tacocraft",
-        "Version": "tacocraft-1.0.0",
-        "Provider": "DIRECT",
-        "Side": "BOTH",
-        "Optional": "false",
-        "Url": "https://github.com/franiscoder/TacoCraft/releases/download/1.0.0/tacocraft-1.0.0.jar"
-    },
-    "techreborn": {
-        "ID": "techreborn",
-        "Version": "TechReborn-1.15-3.3.7+build.210.jar",
+    "tacocraft-fabric": {
+        "ID": "tacocraft-fabric",
+        "Version": "tacocraft-1.0.0.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
-        "Required Dependencies": "reborncore",
         "Release Type": "Release",
-        "CF Authors": "drcrazy777, modmuss50"
+        "CF Authors": "franiscoder"
+    },
+    "techreborn": {
+        "ID": "techreborn",
+        "Version": "TechReborn-1.15-3.3.6%2Bbuild.207",
+        "Provider": "DIRECT",
+        "Side": "BOTH",
+        "Optional": "false",
+        "Url": "http://maven.modmuss50.me/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar"
     },
     "tenor": {
         "ID": "tenor",
@@ -434,11 +423,12 @@
     },
     "underpowered": {
         "ID": "underpowered",
-        "Version": "Underpowered-1.15.2-fabric-1.0.2",
-        "Provider": "DIRECT",
+        "Version": "Underpowered-1.15.2-fabric-1.0.2.jar",
+        "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
-        "Url": "https://cdn.discordapp.com/attachments/696494482698535052/697103427515318322/Underpowered-1.15.2-fabric-1.0.2.jar"
+        "Release Type": "Release",
+        "CF Authors": "abecderic"
     },
     "unfortunately": {
         "ID": "unfortunately",
