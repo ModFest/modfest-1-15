@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Early to mid game tech mod"
+    },
+    "url": "https://github.com/Earthcomputer/Kevlar/releases/download/v1.0/kevlar-1.0-SNAPSHOT.jar"
+}

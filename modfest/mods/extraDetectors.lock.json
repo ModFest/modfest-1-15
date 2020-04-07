@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Adds a weather detector similar to a daylight sensor"
+    },
+    "url": "https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.1/extradetectors-0.0.1.jar"
+}

@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Our mod adds a special crafting system powered by a magical energy alongside several useful utility items and tools."
+    },
+    "url": "https://github.com/TeamSuperPeople/azuma/releases/download/1.2.0-beta-1.15.2/azuma-1.2.0.jar"
+}

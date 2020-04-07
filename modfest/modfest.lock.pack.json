@@ -1,0 +1,14 @@
+{
+    "id": "modfest",
+    "mcVersion": "1.15.2",
+    "modloader": {
+        "type": "Modloader.Fabric",
+        "loader": "0.8.2+build.194",
+        "intermediateMappings": "1.15.2",
+        "installer": "0.5.2.39"
+    },
+    "title": "Modfest",
+    "authors": [
+        "b0undarybreaker"
+    ]
+}

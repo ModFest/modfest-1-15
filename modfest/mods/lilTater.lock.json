@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Adds lil' taters to the game. Crucial for any modded instance."
+    },
+    "url": "https://github.com/Vatuu/lil-Tater/releases/download/0.9-SNAPSHOT/lil-tater-0.9.1-SNAPSHOT.jar"
+}

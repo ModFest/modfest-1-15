@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Adds a fishing net block to passively generate fishing loot"
+    },
+    "url": "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.0/the_blue-1.15.2-1.0.jar"
+}
