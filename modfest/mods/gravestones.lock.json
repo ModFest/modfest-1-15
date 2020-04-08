@@ -1,5 +1,12 @@
 {
     "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "fabric-api"
+            ]
+        }
+    },
     "projectID": 373595,
-    "fileID": 2922285
+    "fileID": 2924539
 }

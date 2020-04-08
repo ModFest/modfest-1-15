@@ -34,7 +34,7 @@ added `azuma`
 Property | old value | new value
 ---|---|---
 ID |  | azuma
-Version |  | azuma-1.2.1-beta.jar
+Version |  | azuma-1.2.5.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -48,7 +48,7 @@ added `campanion`
 Property | old value | new value
 ---|---|---
 ID |  | campanion
-Version |  | campanion-1.0.4.jar
+Version |  | campanion-1.0.5.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -102,12 +102,26 @@ CF Authors |  | Martmists
 
 
 
+added `compuglobalhypermegalogue`
+
+Property | old value | new value
+---|---|---
+ID |  | compuGlobalHyperMegalogue
+Version |  | compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1
+Provider |  | DIRECT
+Side |  | BOTH
+Description |  | Makes it painful to use your inventory
+Optional |  | false
+Url |  | https://github.com/immibis/modfest2/releases/download/v1.0.1-modfest/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1.jar
+
+
+
 added `cornflower`
 
 Property | old value | new value
 ---|---|---
 ID |  | cornflower
-Version |  | Cornflower-1.2.0+fabric.1.15.2.jar
+Version |  | Cornflower-1.2.2+fabric.1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -121,12 +135,12 @@ added `crimson`
 Property | old value | new value
 ---|---|---
 ID |  | crimson
-Version |  | crimson-1.0.3
+Version |  | crimson-1.0.4
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Adds a dangerous new crimson biome linked to a system of crafting magic devices from imbued gemstones
 Optional |  | false
-Url |  | https://github.com/valoeghese/Crimson/releases/download/v1.0.3/crimson-1.0.3.jar
+Url |  | https://github.com/valoeghese/Crimson/releases/download/v1.0.4/crimson-1.0.4.jar
 
 
 
@@ -149,7 +163,7 @@ added `dihydrogen-monoxide-reloaded`
 Property | old value | new value
 ---|---|---
 ID |  | dihydrogen-monoxide-reloaded
-Version |  | Dihydrogen Monoxide Reloaded v1.jar
+Version |  | Dihydrogen Monoxide Reloaded v1_1.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -205,7 +219,7 @@ added `esther`
 Property | old value | new value
 ---|---|---
 ID |  | esther
-Version |  | Esther-1.0.2.jar
+Version |  | Esther-1.0.5.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -290,10 +304,11 @@ added `gravestones`
 Property | old value | new value
 ---|---|---
 ID |  | gravestones
-Version |  | gravestones-1.0.0.jar
+Version |  | gravestones-1.1.1.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
+Required Dependencies |  | fabric-api
 Release Type |  | Release
 CF Authors |  | Krishna_US
 
@@ -375,11 +390,12 @@ added `lint`
 Property | old value | new value
 ---|---|---
 ID |  | lint
-Version |  | lint-1.2.0
-Provider |  | DIRECT
+Version |  | lint-1.2.0.jar
+Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/696494482698535052/697013869796655194/lint-1.2.0.jar
+Release Type |  | Release
+CF Authors |  | hydos06
 
 
 
@@ -416,7 +432,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.0.1.jar
+Version |  | Mechanized-1.1.0.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -464,7 +480,7 @@ Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Extra Resources for the ModFest 1.15 Modpack
 Optional |  | false
-Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.3/modfest-extras.jar
+Url |  | https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.4/modfest-extras.jar
 
 
 
@@ -530,7 +546,7 @@ added `reliccraft`
 Property | old value | new value
 ---|---|---
 ID |  | reliccraft
-Version |  | reliccraft-1.0.7+1.15.2.jar
+Version |  | reliccraft-1.0.11+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -560,12 +576,12 @@ added `saltsmill`
 Property | old value | new value
 ---|---|---
 ID |  | saltsMill
-Version |  | Salts.Mill-0.3
+Version |  | Salts.Mill-0.4
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Loads custom mods as "cassettes" from WAV files
 Optional |  | false
-Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.3/Salts.Mill-0.3.jar
+Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.4/Salts.Mill-0.4.jar
 
 
 
@@ -584,26 +600,12 @@ CF Authors |  | rjmunhoz
 
 
 
-added `sylladex`
-
-Property | old value | new value
----|---|---
-ID |  | sylladex
-Version |  | compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.0
-Provider |  | DIRECT
-Side |  | BOTH
-Description |  | Makes it painful to use your inventory
-Optional |  | false
-Url |  | https://immibisdotcom.s3.amazonaws.com/mcmoddl/modfest2/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.0.jar
-
-
-
 added `tacocraft-fabric`
 
 Property | old value | new value
 ---|---|---
 ID |  | tacocraft-fabric
-Version |  | tacocraft-1.0.0.jar
+Version |  | tacocraft-1.1.0.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false

@@ -2,13 +2,13 @@ mcVersion = "1.15.2"
 title = "Modfest"
 authors = listOf("b0undarybreaker")
 modloader { fabric(Fabric.intermediary.v_1_15_2) }
-icon = rootDir.resolve("icon.png")
 
 pack {
   multimc {
     // path tp the published modpack definition (not sk always) TODO: place to publish
-//    skPackUrl = "https://path/to/modfest.json"
-//    selfupdateUrl = "https://path/to/modfest.json"
+    skPackUrl = "https://modfest.net/1.15/pack/modfest.json"
+    selfupdateUrl = "https://modfest.net/1.15/pack/modfest.json"
+    icon = rootDir.resolve("icon.png")
   }
 }
 
@@ -25,14 +25,14 @@ root<Curse> {
     +FabricMod.funkyForcefields
     +FabricMod.gravestones
     +FabricMod.lilTater
-//    +FabricMod.lint //TODO: move back here once fix uploaded to curseforge, added below
+    +FabricMod.lint
     +FabricMod.mechanizedSteamPower
     +ProjectID(306170) //net weight
     +FabricMod.reliccraft
     +ProjectID(373156) //simple accessories
-    +FabricMod.tacocraftFabric //TODO: move back here once fingerprint bug is fixed, added below
+    +FabricMod.tacocraftFabric
     +ProjectID(373504) //tenor
-    +FabricMod.underpowered //TODO: move back here once fingerprint bug is fixed, added below
+    +FabricMod.underpowered
     +ProjectID(373581) //unfortunately
     +FabricMod.yungsBetterMineshaftsFabric
 
@@ -53,12 +53,16 @@ root<Curse> {
     //direct links
     withTypeClass(Direct::class) {
     }.list {
-      +"capybaraCommune" {//TODO: update once FOML is removed
+      +"capybaraCommune" {
         url = "https://github.com/mjart/capybara-commune/releases/download/1.1/capybara-commune-1.1.jar"
         description = "A Mod which adds the amazing animal 'the Capybara' which chills out all aggressive mobs."
       }
+      +"compuGlobalHyperMegalogue" {
+        url = "https://github.com/immibis/modfest2/releases/download/v1.0.1-modfest/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1.jar"
+        description = "Makes it painful to use your inventory"
+      }
       +"crimson" {
-        url = "https://github.com/valoeghese/Crimson/releases/download/v1.0.3/crimson-1.0.3.jar"
+        url = "https://github.com/valoeghese/Crimson/releases/download/v1.0.4/crimson-1.0.4.jar"
         description = "Adds a dangerous new crimson biome linked to a system of crafting magic devices from imbued gemstones"
       }
       +"crystalModifiers" {
@@ -89,9 +93,6 @@ root<Curse> {
         url = "https://github.com/Earthcomputer/Kevlar/releases/download/v1.0/kevlar-1.0-SNAPSHOT.jar"
         description = "Early to mid game tech mod"
       }
-      +"lint" { //TODO: remove once fix is on curseforge
-        url = "https://cdn.discordapp.com/attachments/696494482698535052/697013869796655194/lint-1.2.0.jar"
-      }
       +"littleRocketMan" {
         url = "https://cdn.discordapp.com/attachments/528472643221848085/694976720930996344/LittleRocketMan-1.0.0.jar"
         description = "Little Rocket Man is a mod that adds Gnome Chompski into the world of minecraft. His mission is to reach space by any means necessary... Your mission is to help him with that."
@@ -113,23 +114,13 @@ root<Curse> {
         description = "Inspired by Satisfactory & Factorio, Reichenbach aims to distance itself from usual tech mods through interesting crafting mechanics & machinery."
       }
       +"saltsMill" {
-        url = "https://github.com/Chocohead/Modjam/releases/download/v0.3/Salts.Mill-0.3.jar"
+        url = "https://github.com/Chocohead/Modjam/releases/download/v0.4/Salts.Mill-0.4.jar"
         description = "Loads custom mods as \"cassettes\" from WAV files"
       }
-      +"sylladex" {
-        url = "https://immibisdotcom.s3.amazonaws.com/mcmoddl/modfest2/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.0.jar"
-        description = "Makes it painful to use your inventory"
-      }
-//      +"tacocraft" { //TODO: remove once fingerprint fixes
-//        url = "https://github.com/franiscoder/TacoCraft/releases/download/1.0.0/tacocraft-1.0.0.jar"
-//      }
       +"theBlue" {
         url = "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.0/the_blue-1.15.2-1.0.jar"
         description = "Adds a fishing net block to passively generate fishing loot"
       }
-//      +"underpowered" {//TODO: remove once fingerprint fixes
-//        url = "https://cdn.discordapp.com/attachments/696494482698535052/697103427515318322/Underpowered-1.15.2-fabric-1.0.2.jar"
-//      }
       +"vantacine" {
         url = "https://cdn.discordapp.com/attachments/692799982058864650/696924186861633617/vantacine-1.0.0.jar"
         description = "Improves the Nether through miscellaneous additions that bring together utility, decoration, and fun."
@@ -137,7 +128,7 @@ root<Curse> {
 
       //assistant mods
       +"modfest-extras" {
-        url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.3/modfest-extras.jar"
+        url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.4/modfest-extras.jar"
         description = "Extra Resources for the ModFest 1.15 Modpack"
       }
 //      +"sodium" { //TODO: add in if it becomes stable by the time the pack goes out

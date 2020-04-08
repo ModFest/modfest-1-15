@@ -10,5 +10,11 @@
     "title": "Modfest",
     "authors": [
         "b0undarybreaker"
-    ]
+    ],
+    "packOptions": {
+        "multimcOptions": {
+            "skPackUrl": "https://modfest.net/1.15/pack/modfest.json",
+            "selfupdateUrl": "https://modfest.net/1.15/pack/modfest.json"
+        }
+    }
 }

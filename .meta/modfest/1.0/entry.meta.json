@@ -10,7 +10,7 @@
     },
     "azuma": {
         "ID": "azuma",
-        "Version": "azuma-1.2.1-beta.jar",
+        "Version": "azuma-1.2.5.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -19,7 +19,7 @@
     },
     "campanion": {
         "ID": "campanion",
-        "Version": "campanion-1.0.4.jar",
+        "Version": "campanion-1.0.5.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -56,9 +56,18 @@
         "Release Type": "Release",
         "CF Authors": "Martmists"
     },
+    "compuglobalhypermegalogue": {
+        "ID": "compuGlobalHyperMegalogue",
+        "Version": "compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1",
+        "Provider": "DIRECT",
+        "Side": "BOTH",
+        "Description": "Makes it painful to use your inventory",
+        "Optional": "false",
+        "Url": "https://github.com/immibis/modfest2/releases/download/v1.0.1-modfest/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1.jar"
+    },
     "cornflower": {
         "ID": "cornflower",
-        "Version": "Cornflower-1.2.0+fabric.1.15.2.jar",
+        "Version": "Cornflower-1.2.2+fabric.1.15.2.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -67,12 +76,12 @@
     },
     "crimson": {
         "ID": "crimson",
-        "Version": "crimson-1.0.3",
+        "Version": "crimson-1.0.4",
         "Provider": "DIRECT",
         "Side": "BOTH",
         "Description": "Adds a dangerous new crimson biome linked to a system of crafting magic devices from imbued gemstones",
         "Optional": "false",
-        "Url": "https://github.com/valoeghese/Crimson/releases/download/v1.0.3/crimson-1.0.3.jar"
+        "Url": "https://github.com/valoeghese/Crimson/releases/download/v1.0.4/crimson-1.0.4.jar"
     },
     "crystalmodifiers": {
         "ID": "crystalModifiers",
@@ -85,7 +94,7 @@
     },
     "dihydrogen-monoxide-reloaded": {
         "ID": "dihydrogen-monoxide-reloaded",
-        "Version": "Dihydrogen Monoxide Reloaded v1.jar",
+        "Version": "Dihydrogen Monoxide Reloaded v1_1.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -121,7 +130,7 @@
     },
     "esther": {
         "ID": "esther",
-        "Version": "Esther-1.0.2.jar",
+        "Version": "Esther-1.0.5.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -176,10 +185,11 @@
     },
     "gravestones": {
         "ID": "gravestones",
-        "Version": "gravestones-1.0.0.jar",
+        "Version": "gravestones-1.1.1.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
+        "Required Dependencies": "fabric-api",
         "Release Type": "Release",
         "CF Authors": "Krishna_US"
     },
@@ -231,11 +241,12 @@
     },
     "lint": {
         "ID": "lint",
-        "Version": "lint-1.2.0",
-        "Provider": "DIRECT",
+        "Version": "lint-1.2.0.jar",
+        "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
-        "Url": "https://cdn.discordapp.com/attachments/696494482698535052/697013869796655194/lint-1.2.0.jar"
+        "Release Type": "Release",
+        "CF Authors": "hydos06"
     },
     "lithium": {
         "ID": "lithium",
@@ -257,7 +268,7 @@
     },
     "mechanized-steam-power": {
         "ID": "mechanized-steam-power",
-        "Version": "Mechanized-1.0.1.jar",
+        "Version": "Mechanized-1.1.0.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -290,7 +301,7 @@
         "Side": "BOTH",
         "Description": "Extra Resources for the ModFest 1.15 Modpack",
         "Optional": "false",
-        "Url": "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.3/modfest-extras.jar"
+        "Url": "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.4/modfest-extras.jar"
     },
     "net-weight": {
         "ID": "net-weight",
@@ -331,7 +342,7 @@
     },
     "reliccraft": {
         "ID": "reliccraft",
-        "Version": "reliccraft-1.0.7+1.15.2.jar",
+        "Version": "reliccraft-1.0.11+1.15.2.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -351,12 +362,12 @@
     },
     "saltsmill": {
         "ID": "saltsMill",
-        "Version": "Salts.Mill-0.3",
+        "Version": "Salts.Mill-0.4",
         "Provider": "DIRECT",
         "Side": "BOTH",
         "Description": "Loads custom mods as \"cassettes\" from WAV files",
         "Optional": "false",
-        "Url": "https://github.com/Chocohead/Modjam/releases/download/v0.3/Salts.Mill-0.3.jar"
+        "Url": "https://github.com/Chocohead/Modjam/releases/download/v0.4/Salts.Mill-0.4.jar"
     },
     "simple-accessories-fabric": {
         "ID": "simple-accessories-fabric",
@@ -368,18 +379,9 @@
         "Release Type": "Beta",
         "CF Authors": "rjmunhoz"
     },
-    "sylladex": {
-        "ID": "sylladex",
-        "Version": "compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.0",
-        "Provider": "DIRECT",
-        "Side": "BOTH",
-        "Description": "Makes it painful to use your inventory",
-        "Optional": "false",
-        "Url": "https://immibisdotcom.s3.amazonaws.com/mcmoddl/modfest2/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.0.jar"
-    },
     "tacocraft-fabric": {
         "ID": "tacocraft-fabric",
-        "Version": "tacocraft-1.0.0.jar",
+        "Version": "tacocraft-1.1.0.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
