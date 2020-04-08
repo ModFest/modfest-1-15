@@ -3,5 +3,6 @@
     "common": {
         "description": "Adds remote-controllable drones with camera"
     },
-    "url": "https://ci.dblsaiko.net/job/drones/lastSuccessfulBuild/artifact/build/libs/drones-0.1.3.jar"
+    "url": "https://ci.dblsaiko.net/job/drones/lastSuccessfulBuild/artifact/build/libs/drones-0.1.3.jar",
+    "useUrlTxt": false
 }

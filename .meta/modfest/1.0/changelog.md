@@ -10,6 +10,7 @@ Fabric Intermediaries Version | 1.15.2
 Fabric Loader Version | 0.8.2+build.194
 Fabric Installer Version | 0.5.2.39
 Authors | b0undarybreaker
+Icon | <img src="icon.png" alt="icon" style="max-height: 128px;"/>
 
 ## Entries
 

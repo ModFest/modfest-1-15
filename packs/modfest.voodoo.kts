@@ -2,13 +2,13 @@ mcVersion = "1.15.2"
 title = "Modfest"
 authors = listOf("b0undarybreaker")
 modloader { fabric(Fabric.intermediary.v_1_15_2) }
+icon = rootDir.resolve("icon.png")
 
 pack {
   multimc {
-    // path tp the published modpack definition (not sk always) TODO: place to publish
+    // path tp the published modpack definition (not sk always)
     skPackUrl = "https://modfest.net/1.15/pack/modfest.json"
     selfupdateUrl = "https://modfest.net/1.15/pack/modfest.json"
-    icon = rootDir.resolve("icon.png")
   }
 }
 
@@ -72,6 +72,7 @@ root<Curse> {
       +"drones" {
         url = "https://ci.dblsaiko.net/job/drones/lastSuccessfulBuild/artifact/build/libs/drones-0.1.3.jar"
         description = "Adds remote-controllable drones with camera"
+        useUrlTxt = false
       }
       +"elementCycle" {
         url = "https://github.com/michaelPoul/element/releases/download/v1.0/element-1.0.0.jar"
