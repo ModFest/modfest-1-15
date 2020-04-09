@@ -1,0 +1,147 @@
+{
+	"buttons": {
+		"minecraft.singleplayer": {
+			// X offset from center
+			"x": -101,
+			// Y offset from top
+			"y": 221,
+			"width": 204,
+			"height": 20,
+			"text": "<default>",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"minecraft.multiplayer": {
+			// X offset from center
+			"x": -101,
+			// Y offset from top
+			"y": 243,
+			"width": 204,
+			"height": 20,
+			"text": "<default>",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"modfest.discord": {
+			// X offset from center
+			"x": -101,
+			// Y offset from top
+			"y": 265,
+			"width": 100,
+			"height": 20,
+			"text": "Discord",
+			"type": "url",
+			"parameter": "https://discord.gg/gn543Ee",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"modfest.vote": {
+			// X offset from center
+			"x": 3,
+			// Y offset from top
+			"y": 265,
+			"width": 100,
+			"height": 20,
+			"text": "Vote",
+			"type": "url",
+			"parameter": "https://b0undarybreaker.typeform.com/to/gtIW9R",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"modfest.site": {
+			// X offset from center
+			"x": -101,
+			// Y offset from top
+			"y": 287,
+			"width": 100,
+			"height": 20,
+			"text": "Website",
+			"type": "url",
+			"parameter": "https://modfest.net",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"modmenu.modlist": {
+			// X offset from center
+			"x": 3,
+			// Y offset from top
+			"y": 287,
+			"width": 100,
+			"height": 20,
+			"text": "<default>",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"minecraft.language": {
+			// X offset from center
+			"x": -128,
+			// Y offset from top
+			"y": 309,
+			"width": 20,
+			"height": 20,
+			"text": "",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"minecraft.quit": {
+			// X offset from center
+			"x": 3,
+			// Y offset from top
+			"y": 309,
+			"width": 100,
+			"height": 20,
+			"text": "<default>",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"minecraft.options": {
+			// X offset from center
+			"x": -101,
+			// Y offset from top
+			"y": 309,
+			"width": 100,
+			"height": 20,
+			"text": "<default>",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"minecraft.accessibility": {
+			// X offset from center
+			"x": 110,
+			// Y offset from top
+			"y": 309,
+			"width": 20,
+			"height": 20,
+			"text": "",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		},
+		"minecraft.realms": { //hidden
+			// X offset from center
+			"x": 1,
+			// Y offset from top
+			"y": 241,
+			"width": 0,
+			"height": 0,
+			"text": "",
+			"type": "modify",
+			"parameter": "",
+			// Not currently implemented
+			"textureName": ""
+		}
+	}
+}

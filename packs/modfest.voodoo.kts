@@ -2,7 +2,7 @@ mcVersion = "1.15.2"
 title = "Modfest"
 authors = listOf("b0undarybreaker")
 modloader { fabric(Fabric.intermediary.v_1_15_2) }
-icon = rootDir.resolve("icon.png")
+icon = rootFolder.resolve("icon.png")
 
 pack {
   multimc {
@@ -49,6 +49,7 @@ root<Curse> {
     +FabricMod.modmenu
 //    +FabricMod.notEnoughCrashes
     +FabricMod.roughlyEnoughItems
+    +FabricMod.customtitlescreen
 
     //direct links
     withTypeClass(Direct::class) {
@@ -57,7 +58,7 @@ root<Curse> {
         url = "https://github.com/mjart/capybara-commune/releases/download/1.1/capybara-commune-1.1.jar"
         description = "A Mod which adds the amazing animal 'the Capybara' which chills out all aggressive mobs."
       }
-      +"compuGlobalHyperMegalogue" {
+      +"compuGlobalHyperMeganet" {
         url = "https://github.com/immibis/modfest2/releases/download/v1.0.1-modfest/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1.jar"
         description = "Makes it painful to use your inventory"
       }
@@ -103,7 +104,7 @@ root<Curse> {
         description = "Adds Crank and Grinder inspired by Applied Energistics' Grindstone, and 5 new metals: lead, tin, copper, silver and bronze."
       }
       +"offShorePlus" {
-        url = "https://github.com/trewghil/offshoreplus/releases/download/0.0.1/offshoreplus-0.0.1.jar"
+        url = "https://github.com/trewghil/offshoreplus/releases/download/0.0.2/offshoreplus-0.0.2.jar"
         description = "Adds more cool stuff to the ocean"
       }
       +"overgrownCities" {

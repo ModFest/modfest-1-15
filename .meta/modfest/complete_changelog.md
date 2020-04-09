@@ -103,11 +103,11 @@ CF Authors |  | Martmists
 
 
 
-added `compuglobalhypermegalogue`
+added `compuglobalhypermeganet`
 
 Property | old value | new value
 ---|---|---
-ID |  | compuGlobalHyperMegalogue
+ID |  | compuGlobalHyperMeganet
 Version |  | compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1
 Provider |  | DIRECT
 Side |  | BOTH
@@ -122,12 +122,27 @@ added `cornflower`
 Property | old value | new value
 ---|---|---
 ID |  | cornflower
-Version |  | Cornflower-1.2.2+fabric.1.15.2.jar
+Version |  | Cornflower-1.2.3+fabric.1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
 Release Type |  | Release
 CF Authors |  | ChristianIsWizard, JoeZwet
+
+
+
+added `cotton`
+
+Property | old value | new value
+---|---|---
+ID |  | cotton
+Version |  | cotton-1.0.2.jar
+Provider |  | CURSE
+Side |  | BOTH
+Optional |  | false
+Required Dependencies |  | fabric-api
+Release Type |  | Release
+CF Authors |  | B0undarybreaker, falkreon, frontridermergedfromcurse, Pannoniae
 
 
 
@@ -156,6 +171,21 @@ Side |  | BOTH
 Description |  | Harness the power of new naturally spawning crystals to apply potion effects to you and your enemies in a more strategy-oriented, quick, and reliable method.
 Optional |  | false
 Url |  | https://github.com/Maowcraft/CrystalModifiers/releases/download/1.0.0/CrystalModifiers-1.15.2-1.0.0.jar
+
+
+
+added `customtitlescreen`
+
+Property | old value | new value
+---|---|---
+ID |  | customtitlescreen
+Version |  | customtitlescreen-1.15.2-0.1.1.jar
+Provider |  | CURSE
+Side |  | BOTH
+Optional |  | false
+Required Dependencies |  | cotton, fabric-api
+Release Type |  | Release
+CF Authors |  | Martmists
 
 
 
@@ -433,7 +463,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.1.0.jar
+Version |  | Mechanized-1.2.0.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -505,12 +535,12 @@ added `offshoreplus`
 Property | old value | new value
 ---|---|---
 ID |  | offShorePlus
-Version |  | offshoreplus-0.0.1
+Version |  | offshoreplus-0.0.2
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Adds more cool stuff to the ocean
 Optional |  | false
-Url |  | https://github.com/trewghil/offshoreplus/releases/download/0.0.1/offshoreplus-0.0.1.jar
+Url |  | https://github.com/trewghil/offshoreplus/releases/download/0.0.2/offshoreplus-0.0.2.jar
 
 
 
@@ -547,7 +577,7 @@ added `reliccraft`
 Property | old value | new value
 ---|---|---
 ID |  | reliccraft
-Version |  | reliccraft-1.0.11+1.15.2.jar
+Version |  | reliccraft-1.0.12+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false

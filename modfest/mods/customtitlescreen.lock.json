@@ -1,0 +1,13 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "dependencies": {
+            "REQUIRED": [
+                "cotton",
+                "fabric-api"
+            ]
+        }
+    },
+    "projectID": 353896,
+    "fileID": 2870802
+}
