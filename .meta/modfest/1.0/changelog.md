@@ -350,12 +350,12 @@ added `greenstone`
 Property | old value | new value
 ---|---|---
 ID |  | greenstone
-Version |  | greenstone-circuit-mod-0.0.0
+Version |  | greenstone-circuit-mod-0.0.1
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | A basic computer mod with a reverse Polish notation language.
 Optional |  | false
-Url |  | https://github.com/Forkk/Greenstone/releases/download/modfest-v2/greenstone-circuit-mod-0.0.0.jar
+Url |  | https://github.com/Forkk/Greenstone/releases/download/v0.0.1/greenstone-circuit-mod-0.0.1.jar
 
 
 
@@ -607,7 +607,7 @@ added `roughly-enough-items`
 Property | old value | new value
 ---|---|---
 ID |  | roughly-enough-items
-Version |  | RoughlyEnoughItems-3.6.6.jar
+Version |  | RoughlyEnoughItems-3.6.7.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -678,7 +678,7 @@ added `tenor`
 Property | old value | new value
 ---|---|---
 ID |  | tenor
-Version |  | tenor-1.0.2.jar
+Version |  | tenor-1.0.3.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false

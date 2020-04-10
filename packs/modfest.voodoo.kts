@@ -100,7 +100,7 @@ root<Curse> {
         description = "Adds a weather detector similar to a clock"
       }
       +"greenstone" {
-        url = "https://github.com/Forkk/Greenstone/releases/download/modfest-v2/greenstone-circuit-mod-0.0.0.jar"
+        url = "https://github.com/Forkk/Greenstone/releases/download/v0.0.1/greenstone-circuit-mod-0.0.1.jar"
         description = "A basic computer mod with a reverse Polish notation language."
       }
       +"kevlar" {
