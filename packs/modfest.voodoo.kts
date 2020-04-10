@@ -52,6 +52,7 @@ root<Curse> {
     +FabricMod.roughlyEnoughItems
     +FabricMod.customtitlescreen
 
+    //optional mods
     group {
       optional {
         selected = false
@@ -60,8 +61,10 @@ root<Curse> {
       +FabricMod.retino {
         description = "Fixes issues with retina display on Mac. Don't use otherwise."
       }
+      +FabricMod.miniHud {
+        description = "Displays server TPS and MSPT. Helpful for debugging."
+      }
     }
-
 
     //direct links
     withTypeClass(Direct::class) {

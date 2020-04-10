@@ -93,7 +93,7 @@ added `composing`
 Property | old value | new value
 ---|---|---
 ID |  | composing
-Version |  | composing-1.0.1+1.15.2.jar
+Version |  | composing-1.0.2+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -458,6 +458,20 @@ Url |  | https://cdn.discordapp.com/attachments/528472643221848085/6949767209309
 
 
 
+added `malilib`
+
+Property | old value | new value
+---|---|---
+ID |  | malilib
+Version |  | malilib-fabric-1.15.2-0.10.0-dev.20+arne.6.jar
+Provider |  | CURSE
+Side |  | BOTH
+Optional |  | false
+Release Type |  | Beta
+CF Authors |  | masady
+
+
+
 added `mechanized-steam-power`
 
 Property | old value | new value
@@ -484,6 +498,22 @@ Side |  | BOTH
 Description |  | Adds Crank and Grinder inspired by Applied Energistics' Grindstone, and 5 new metals: lead, tin, copper, silver and bronze.
 Optional |  | false
 Url |  | https://github.com/Reoseah/metal-supply/releases/download/modfest/metal-supply-1.0.0.jar
+
+
+
+added `mini-hud`
+
+Property | old value | new value
+---|---|---
+ID |  | mini-hud
+Version |  | minihud-fabric-1.15.2-0.19.0-dev.20200121.203515.jar
+Provider |  | CURSE
+Side |  | BOTH
+Description |  | Displays server TPS and MSPT. Helpful for debugging.
+Optional |  | true
+Required Dependencies |  | malilib
+Release Type |  | Release
+CF Authors |  | masady
 
 
 
@@ -651,7 +681,7 @@ added `tacocraft-fabric`
 Property | old value | new value
 ---|---|---
 ID |  | tacocraft-fabric
-Version |  | tacocraft-1.1.0.jar
+Version |  | tacocraft-1.1.1.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false

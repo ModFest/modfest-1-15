@@ -1,0 +1,15 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Curse",
+    "common": {
+        "description": "Displays server TPS and MSPT. Helpful for debugging.",
+        "optionalData": {
+        },
+        "dependencies": {
+            "REQUIRED": [
+                "malilib"
+            ]
+        }
+    },
+    "projectID": 244260,
+    "fileID": 2880367
+}
