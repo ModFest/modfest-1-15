@@ -264,12 +264,12 @@ added `extradetectors`
 Property | old value | new value
 ---|---|---
 ID |  | extraDetectors
-Version |  | extradetectors-0.0.1
+Version |  | extradetectors-0.0.3
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Adds a weather detector similar to a clock
 Optional |  | false
-Url |  | https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.1/extradetectors-0.0.1.jar
+Url |  | https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.3/extradetectors-0.0.3.jar
 
 
 

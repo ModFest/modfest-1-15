@@ -99,7 +99,7 @@ root<Curse> {
         description = "Enchanter's Experiments adds a bunch of new experimental enchantments that can be found in magic gifts."
       }
       +"extraDetectors" {
-        url = "https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.1/extradetectors-0.0.1.jar"
+        url = "https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.3/extradetectors-0.0.3.jar"
         description = "Adds a weather detector similar to a clock"
       }
       +"greenstone" {
