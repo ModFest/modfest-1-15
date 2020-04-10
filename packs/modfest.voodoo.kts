@@ -13,6 +13,7 @@ pack {
 }
 
 root<Curse> {
+  releaseTypes = setOf(FileType.Release, FileType.Beta)
   it.list {
     +FabricMod.archcreatia
     +FabricMod.azuma
@@ -27,13 +28,13 @@ root<Curse> {
     +FabricMod.lilTater
     +FabricMod.lint
     +FabricMod.mechanizedSteamPower
-    +ProjectID(306170) //net weight
+    +FabricMod.netWeight
     +FabricMod.reliccraft
     +ProjectID(373156) //simple accessories
     +FabricMod.tacocraftFabric
     +ProjectID(373504) //tenor
     +FabricMod.underpowered
-    +ProjectID(373581) //unfortunately
+    +FabricMod.unfortunately
     +FabricMod.yungsBetterMineshaftsFabric
 
     //dependencies
@@ -50,6 +51,17 @@ root<Curse> {
 //    +FabricMod.notEnoughCrashes
     +FabricMod.roughlyEnoughItems
     +FabricMod.customtitlescreen
+
+    group {
+      optional {
+        selected = false
+      }
+    }.list {
+      +FabricMod.retino {
+        description = "Fixes issues with retina display on Mac. Don't use otherwise."
+      }
+    }
+
 
     //direct links
     withTypeClass(Direct::class) {
@@ -104,7 +116,7 @@ root<Curse> {
         description = "Adds Crank and Grinder inspired by Applied Energistics' Grindstone, and 5 new metals: lead, tin, copper, silver and bronze."
       }
       +"offShorePlus" {
-        url = "https://github.com/trewghil/offshoreplus/releases/download/0.0.2/offshoreplus-0.0.2.jar"
+        url = "https://github.com/trewghil/offshoreplus/releases/download/0.0.3/offshoreplus-0.0.3.jar"
         description = "Adds more cool stuff to the ocean"
       }
       +"overgrownCities" {
@@ -112,7 +124,7 @@ root<Curse> {
         description = "Creates a new dimension with an old decaying city hidden among the overgrown wilderness with an Abandoned Warehouse in the Overworld to let you enter it!"
       }
       +"reichenbach" {
-        url = "https://cdn.discordapp.com/attachments/627962741826650123/696986713351913506/reichenbach-0.0.1.jar"
+        url = "https://cdn.discordapp.com/attachments/696494482698535052/697878335916605572/reichenbach-0.0.1.jar"
         description = "Inspired by Satisfactory & Factorio, Reichenbach aims to distance itself from usual tech mods through interesting crafting mechanics & machinery."
       }
       +"saltsMill" {

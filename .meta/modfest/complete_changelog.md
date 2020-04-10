@@ -21,7 +21,7 @@ added `archcreatia`
 Property | old value | new value
 ---|---|---
 ID |  | archcreatia
-Version |  | archcreatia-mod-0.9.2.jar
+Version |  | archcreatia-mod-0.9.3.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -49,7 +49,7 @@ added `campanion`
 Property | old value | new value
 ---|---|---
 ID |  | campanion
-Version |  | campanion-1.0.5.jar
+Version |  | campanion-1.0.6+custom.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -78,7 +78,7 @@ added `chunk-in-a-globe`
 Property | old value | new value
 ---|---|---
 ID |  | chunk-in-a-globe
-Version |  | chunk-in-a-globe-1.15.2-1.0.1.jar
+Version |  | chunk-in-a-globe-1.15.2-1.0.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -425,8 +425,8 @@ Version |  | lint-1.2.0.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Release Type |  | Release
-CF Authors |  | hydos06
+Release Type |  | Beta
+CF Authors |  | hydos06, ramidzkh
 
 
 
@@ -463,7 +463,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.2.0.jar
+Version |  | Mechanized-1.3.0.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -535,12 +535,12 @@ added `offshoreplus`
 Property | old value | new value
 ---|---|---
 ID |  | offShorePlus
-Version |  | offshoreplus-0.0.2
+Version |  | offshoreplus-0.0.3
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Adds more cool stuff to the ocean
 Optional |  | false
-Url |  | https://github.com/trewghil/offshoreplus/releases/download/0.0.2/offshoreplus-0.0.2.jar
+Url |  | https://github.com/trewghil/offshoreplus/releases/download/0.0.3/offshoreplus-0.0.3.jar
 
 
 
@@ -568,7 +568,7 @@ Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Inspired by Satisfactory & Factorio, Reichenbach aims to distance itself from usual tech mods through interesting crafting mechanics & machinery.
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/627962741826650123/696986713351913506/reichenbach-0.0.1.jar
+Url |  | https://cdn.discordapp.com/attachments/696494482698535052/697878335916605572/reichenbach-0.0.1.jar
 
 
 
@@ -577,13 +577,28 @@ added `reliccraft`
 Property | old value | new value
 ---|---|---
 ID |  | reliccraft
-Version |  | reliccraft-1.0.12+1.15.2.jar
+Version |  | reliccraft-1.0.14+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
 Required Dependencies |  | fabric-api
 Release Type |  | Release
 CF Authors |  | thebrokenrail
+
+
+
+added `retino`
+
+Property | old value | new value
+---|---|---
+ID |  | retino
+Version |  | retino-1.0.0.jar
+Provider |  | CURSE
+Side |  | BOTH
+Description |  | Fixes issues with retina display on Mac. Don't use otherwise.
+Optional |  | true
+Release Type |  | Release
+CF Authors |  | Juliand665
 
 
 
