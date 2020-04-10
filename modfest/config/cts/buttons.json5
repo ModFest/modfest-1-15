@@ -4,7 +4,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 131,
+			"y": 221,
 			"width": 204,
 			"height": 20,
 			"text": "<default>",
@@ -17,7 +17,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 153,
+			"y": 243,
 			"width": 204,
 			"height": 20,
 			"text": "<default>",
@@ -30,7 +30,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 175,
+			"y": 265,
 			"width": 100,
 			"height": 20,
 			"text": "Discord",
@@ -43,7 +43,7 @@
 			// X offset from center
 			"x": 3,
 			// Y offset from top
-			"y": 175,
+			"y": 265,
 			"width": 100,
 			"height": 20,
 			"text": "Vote",
@@ -56,7 +56,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 197,
+			"y": 287,
 			"width": 100,
 			"height": 20,
 			"text": "Website",
@@ -69,7 +69,7 @@
 			// X offset from center
 			"x": 3,
 			// Y offset from top
-			"y": 197,
+			"y": 287,
 			"width": 100,
 			"height": 20,
 			"text": "<default>",
@@ -82,7 +82,7 @@
 			// X offset from center
 			"x": -128,
 			// Y offset from top
-			"y": 219,
+			"y": 309,
 			"width": 20,
 			"height": 20,
 			"text": "",
@@ -95,7 +95,7 @@
 			// X offset from center
 			"x": 3,
 			// Y offset from top
-			"y": 219,
+			"y": 309,
 			"width": 100,
 			"height": 20,
 			"text": "<default>",
@@ -108,7 +108,7 @@
 			// X offset from center
 			"x": -101,
 			// Y offset from top
-			"y": 219,
+			"y": 309,
 			"width": 100,
 			"height": 20,
 			"text": "<default>",
@@ -121,7 +121,7 @@
 			// X offset from center
 			"x": 110,
 			// Y offset from top
-			"y": 219,
+			"y": 309,
 			"width": 20,
 			"height": 20,
 			"text": "",
