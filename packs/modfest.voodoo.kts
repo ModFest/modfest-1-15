@@ -135,7 +135,7 @@ root<Curse> {
         description = "Loads custom mods as \"cassettes\" from WAV files"
       }
       +"theBlue" {
-        url = "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.0/the_blue-1.15.2-1.0.jar"
+        url = "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.1/the_blue-1.15.2-1.1.jar"
         description = "Adds a fishing net block to passively generate fishing loot"
       }
       +"vantacine" {

@@ -10,7 +10,7 @@
     },
     "azuma": {
         "ID": "azuma",
-        "Version": "azuma-1.2.5.jar",
+        "Version": "azuma-1.2.6-beta_1.15.2 (1).jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -265,7 +265,7 @@
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
-        "Release Type": "Beta",
+        "Release Type": "Release",
         "CF Authors": "hydos06, ramidzkh"
     },
     "lithium": {
@@ -297,7 +297,7 @@
     },
     "mechanized-steam-power": {
         "ID": "mechanized-steam-power",
-        "Version": "Mechanized-1.3.0.jar",
+        "Version": "Mechanized-1.4.1.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -382,7 +382,7 @@
     },
     "reliccraft": {
         "ID": "reliccraft",
-        "Version": "reliccraft-1.0.14+1.15.2.jar",
+        "Version": "reliccraft-1.0.15+1.15.2.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
@@ -457,12 +457,12 @@
     },
     "theblue": {
         "ID": "theBlue",
-        "Version": "the_blue-1.15.2-1.0",
+        "Version": "the_blue-1.15.2-1.1",
         "Provider": "DIRECT",
         "Side": "BOTH",
         "Description": "Adds a fishing net block to passively generate fishing loot",
         "Optional": "false",
-        "Url": "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.0/the_blue-1.15.2-1.0.jar"
+        "Url": "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.1/the_blue-1.15.2-1.1.jar"
     },
     "trinkets-fabric": {
         "ID": "trinkets-fabric",

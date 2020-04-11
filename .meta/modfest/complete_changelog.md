@@ -35,7 +35,7 @@ added `azuma`
 Property | old value | new value
 ---|---|---
 ID |  | azuma
-Version |  | azuma-1.2.5.jar
+Version |  | azuma-1.2.6-beta_1.15.2 (1).jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -425,7 +425,7 @@ Version |  | lint-1.2.0.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
-Release Type |  | Beta
+Release Type |  | Release
 CF Authors |  | hydos06, ramidzkh
 
 
@@ -477,7 +477,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.3.0.jar
+Version |  | Mechanized-1.4.1.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -607,7 +607,7 @@ added `reliccraft`
 Property | old value | new value
 ---|---|---
 ID |  | reliccraft
-Version |  | reliccraft-1.0.14+1.15.2.jar
+Version |  | reliccraft-1.0.15+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -722,12 +722,12 @@ added `theblue`
 Property | old value | new value
 ---|---|---
 ID |  | theBlue
-Version |  | the_blue-1.15.2-1.0
+Version |  | the_blue-1.15.2-1.1
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Adds a fishing net block to passively generate fishing loot
 Optional |  | false
-Url |  | https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.0/the_blue-1.15.2-1.0.jar
+Url |  | https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.1/the_blue-1.15.2-1.1.jar
 
 
 
