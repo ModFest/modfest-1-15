@@ -49,12 +49,12 @@ added `bruhmoment`
 Property | old value | new value
 ---|---|---
 ID |  | bruhMoment
-Version |  | bruh-moment-0.1.0
+Version |  | bruh-moment-0.1.2
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Blacklist for interactions in adventure mode
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/696494482698535052/698608389202378875/bruh-moment-0.1.0.jar
+Url |  | https://cdn.discordapp.com/attachments/696494482698535052/698638004276822056/bruh-moment-0.1.2.jar
 
 
 

@@ -152,7 +152,7 @@ root<Curse> {
 
       //assistant mods
       +"bruhMoment" {
-        url = "https://cdn.discordapp.com/attachments/696494482698535052/698608389202378875/bruh-moment-0.1.0.jar"
+        url = "https://cdn.discordapp.com/attachments/696494482698535052/698638004276822056/bruh-moment-0.1.2.jar"
         description = "Blacklist for interactions in adventure mode"
       }
       +"modfest-extras" {
