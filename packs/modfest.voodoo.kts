@@ -1,3 +1,5 @@
+import newformat.builder.FnPatternList
+
 mcVersion = "1.15.2"
 title = "Modfest"
 authors = listOf("b0undarybreaker")
@@ -9,6 +11,11 @@ pack {
     // path tp the published modpack definition (not sk always)
     skPackUrl = "https://modfest.net/1.15/pack/modfest.json"
     selfupdateUrl = "https://modfest.net/1.15/pack/modfest.json"
+  }
+  experimental {
+    userFiles = FnPatternList(
+            include = listOf("servers.dat")
+    )
   }
 }
 
@@ -131,7 +138,7 @@ root<Curse> {
         description = "Inspired by Satisfactory & Factorio, Reichenbach aims to distance itself from usual tech mods through interesting crafting mechanics & machinery."
       }
       +"saltsMill" {
-        url = "https://github.com/Chocohead/Modjam/releases/download/v0.4/Salts.Mill-0.4.jar"
+        url = "https://github.com/Chocohead/Modjam/releases/download/v0.5/Salts.Mill-0.5.jar"
         description = "Loads custom mods as \"cassettes\" from WAV files"
       }
       +"theBlue" {
@@ -144,6 +151,10 @@ root<Curse> {
       }
 
       //assistant mods
+      +"bruhMoment" {
+        url = "https://cdn.discordapp.com/attachments/696494482698535052/698608389202378875/bruh-moment-0.1.0.jar"
+        description = "Blacklist for interactions in adventure mode"
+      }
       +"modfest-extras" {
         url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.4/modfest-extras.jar"
         description = "Extra Resources for the ModFest 1.15 Modpack"

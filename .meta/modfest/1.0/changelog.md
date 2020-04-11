@@ -44,18 +44,32 @@ CF Authors |  | azunah___, Draylar1, TeamSuperPeople
 
 
 
+added `bruhmoment`
+
+Property | old value | new value
+---|---|---
+ID |  | bruhMoment
+Version |  | bruh-moment-0.1.0
+Provider |  | DIRECT
+Side |  | BOTH
+Description |  | Blacklist for interactions in adventure mode
+Optional |  | false
+Url |  | https://cdn.discordapp.com/attachments/696494482698535052/698608389202378875/bruh-moment-0.1.0.jar
+
+
+
 added `campanion`
 
 Property | old value | new value
 ---|---|---
 ID |  | campanion
-Version |  | campanion-1.0.6+custom.jar
+Version |  | campanion-1.0.7+custom.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
 Required Dependencies |  | fabric-api
 Release Type |  | Beta
-CF Authors |  | neusfear, ProspectorDev, wyn_price
+CF Authors |  | neusfear, ProspectorDev, TerraformersMC, wyn_price
 
 
 
@@ -477,7 +491,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.4.1.jar
+Version |  | Mechanized-1.4.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -607,7 +621,7 @@ added `reliccraft`
 Property | old value | new value
 ---|---|---
 ID |  | reliccraft
-Version |  | reliccraft-1.0.15+1.15.2.jar
+Version |  | reliccraft-1.0.16+1.15.2.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -637,7 +651,7 @@ added `roughly-enough-items`
 Property | old value | new value
 ---|---|---
 ID |  | roughly-enough-items
-Version |  | RoughlyEnoughItems-3.6.7.jar
+Version |  | RoughlyEnoughItems-3.6.8.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false
@@ -652,12 +666,12 @@ added `saltsmill`
 Property | old value | new value
 ---|---|---
 ID |  | saltsMill
-Version |  | Salts.Mill-0.4
+Version |  | Salts.Mill-0.5
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Loads custom mods as "cassettes" from WAV files
 Optional |  | false
-Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.4/Salts.Mill-0.4.jar
+Url |  | https://github.com/Chocohead/Modjam/releases/download/v0.5/Salts.Mill-0.5.jar
 
 
 
@@ -750,7 +764,7 @@ added `underpowered`
 Property | old value | new value
 ---|---|---
 ID |  | underpowered
-Version |  | Underpowered-1.15.2-fabric-1.0.2.jar
+Version |  | Underpowered-1.15.2-fabric-1.0.3.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false

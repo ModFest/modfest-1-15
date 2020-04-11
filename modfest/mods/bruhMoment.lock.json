@@ -1,0 +1,7 @@
+{
+    "type": "voodoo.data.lock.LockEntry.Direct",
+    "common": {
+        "description": "Blacklist for interactions in adventure mode"
+    },
+    "url": "https://cdn.discordapp.com/attachments/696494482698535052/698608389202378875/bruh-moment-0.1.0.jar"
+}
