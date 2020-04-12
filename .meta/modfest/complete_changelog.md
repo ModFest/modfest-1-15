@@ -491,7 +491,7 @@ added `mechanized-steam-power`
 Property | old value | new value
 ---|---|---
 ID |  | mechanized-steam-power
-Version |  | Mechanized-1.4.2.jar
+Version |  | Mechanized-1.4.3.jar
 Provider |  | CURSE
 Side |  | BOTH
 Optional |  | false

@@ -306,7 +306,7 @@
     },
     "mechanized-steam-power": {
         "ID": "mechanized-steam-power",
-        "Version": "Mechanized-1.4.2.jar",
+        "Version": "Mechanized-1.4.3.jar",
         "Provider": "CURSE",
         "Side": "BOTH",
         "Optional": "false",
