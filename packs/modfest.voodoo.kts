@@ -146,7 +146,7 @@ root<Curse> {
         description = "Adds a fishing net block to passively generate fishing loot"
       }
       +"vantacine" {
-        url = "https://cdn.discordapp.com/attachments/692799982058864650/696924186861633617/vantacine-1.0.0.jar"
+        url = "https://cdn.discordapp.com/attachments/696494482698535052/698685448771338290/vantacine-1.0.0-pre4.jar"
         description = "Improves the Nether through miscellaneous additions that bring together utility, decoration, and fun."
       }
 

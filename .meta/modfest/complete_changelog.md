@@ -793,12 +793,12 @@ added `vantacine`
 Property | old value | new value
 ---|---|---
 ID |  | vantacine
-Version |  | vantacine-1.0.0
+Version |  | vantacine-1.0.0-pre4
 Provider |  | DIRECT
 Side |  | BOTH
 Description |  | Improves the Nether through miscellaneous additions that bring together utility, decoration, and fun.
 Optional |  | false
-Url |  | https://cdn.discordapp.com/attachments/692799982058864650/696924186861633617/vantacine-1.0.0.jar
+Url |  | https://cdn.discordapp.com/attachments/696494482698535052/698685448771338290/vantacine-1.0.0-pre4.jar
 
 
 
