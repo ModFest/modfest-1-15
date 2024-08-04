@@ -1,0 +1,13 @@
+name = "LibGui"
+filename = "LibGui-1.8.0+1.15.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "df31c78000886bce75a671e4766d68232ffc7ada"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2909426
+project-id = 326869

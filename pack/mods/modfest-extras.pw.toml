@@ -1,0 +1,7 @@
+name = "modfest-extras"
+filename = "modfest-extras.jar"
+
+[download]
+url = "https://github.com/TheBrokenRail/ModFest-1.15-Extras/releases/download/1.0.4/modfest-extras.jar"
+hash-format = "sha256"
+hash = "5d2e3cb04f8ff3a8a7718a3f2ebbdac6fe2da6dc3ff16da0eb06d859c13e5dac"

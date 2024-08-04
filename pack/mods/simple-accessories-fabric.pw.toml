@@ -1,0 +1,13 @@
+name = "Simple Accessories - Fabric"
+filename = "simpleaccessories-0.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c689e65e0780ba860fc06faa88c3dcf1fee94995"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2923736
+project-id = 373156

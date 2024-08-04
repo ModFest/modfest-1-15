@@ -1,0 +1,7 @@
+name = "techreborn"
+filename = "TechReborn-1.15-3.3.6+build.207.jar"
+
+[download]
+url = "http://maven.modmuss50.me/TechReborn/TechReborn-1.15/3.3.6%2Bbuild.207/TechReborn-1.15-3.3.6%2Bbuild.207.jar"
+hash-format = "sha256"
+hash = "739d7a6aa6fbfa06f139caf1b18a63da0a24cb7c335548a8c573a4ff48264e5f"

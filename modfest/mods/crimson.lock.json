@@ -1,7 +1,0 @@
-{
-    "type": "voodoo.data.lock.LockEntry.Direct",
-    "common": {
-        "description": "Adds a dangerous new crimson biome linked to a system of crafting magic devices from imbued gemstones"
-    },
-    "url": "https://github.com/valoeghese/Crimson/releases/download/v1.0.4/crimson-1.0.4.jar"
-}

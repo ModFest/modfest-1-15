@@ -1,0 +1,13 @@
+name = "Dihydrogen Monoxide Reloaded"
+filename = "Dihydrogen Monoxide Reloaded v1_1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1cc9e0b8fc64dbca979e94e660d90162220135b6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2924339
+project-id = 373536

@@ -1,0 +1,13 @@
+name = "modfest 1.15"
+author = "b0undarybreaker"
+version = "1.0.0+modrinth_release"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9fbe57dba6e31fc5468758f97b8ecdc39c2a33c240dc7a55f2183817b7208dad"
+
+[versions]
+fabric = "0.8.2+build.194"
+minecraft = "1.15.2"

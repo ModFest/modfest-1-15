@@ -1,0 +1,13 @@
+name = "Fabric Language Scala"
+filename = "fabric-language-scala-0.3.2.12-fat.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "424844a876317f5673247b468d20d0c54cba1317"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2923398
+project-id = 309275

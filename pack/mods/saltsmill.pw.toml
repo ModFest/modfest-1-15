@@ -1,0 +1,7 @@
+name = "saltsMill"
+filename = "Salts.Mill-0.5.jar"
+
+[download]
+url = "https://github.com/Chocohead/Modjam/releases/download/v0.5/Salts.Mill-0.5.jar"
+hash-format = "sha256"
+hash = "fd4d9ef8e5147f8368da64deb7c1a9098e9f774283cd3eaad45b097ff5b13ef4"

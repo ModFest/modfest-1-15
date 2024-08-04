@@ -1,0 +1,13 @@
+name = "Gravestones"
+filename = "gravestones-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09923f07040ab54cc5016701fc7807371c3ddb75"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2924539
+project-id = 373595

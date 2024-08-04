@@ -1,0 +1,7 @@
+name = "vantacine"
+filename = "vantacine-1.0.0-pre4.jar"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/696494482698535052/698685448771338290/vantacine-1.0.0-pre4.jar"
+hash-format = "sha256"
+hash = "757d7419b283b0fe15e275fe55425c08cb4a2bc9f40853e835b6b778a2ef2e77"

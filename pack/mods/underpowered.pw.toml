@@ -1,0 +1,13 @@
+name = "Underpowered"
+filename = "Underpowered-1.15.2-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "78f34090c7b3e4c6190270f32e3aea9d4426e7a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2927156
+project-id = 373435

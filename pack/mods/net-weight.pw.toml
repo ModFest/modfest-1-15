@@ -1,0 +1,13 @@
+name = "Net Weight"
+filename = "net-weight-0.1.0-alpha+custom-1.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1e8735df91da993d165515c727ad7b034f5e039b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2926345
+project-id = 306170

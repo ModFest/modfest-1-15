@@ -1,0 +1,13 @@
+name = "TacoCraft"
+filename = "tacocraft-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3cdadc3985c40c5a3b1a9dbd8cd249e624ef0775"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2926374
+project-id = 373093

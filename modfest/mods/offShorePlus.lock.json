@@ -1,7 +1,0 @@
-{
-    "type": "voodoo.data.lock.LockEntry.Direct",
-    "common": {
-        "description": "Adds more cool stuff to the ocean"
-    },
-    "url": "https://github.com/trewghil/offshoreplus/releases/download/0.0.3/offshoreplus-0.0.3.jar"
-}

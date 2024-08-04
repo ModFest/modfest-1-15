@@ -1,0 +1,13 @@
+name = "MaLiLib"
+filename = "malilib-fabric-1.15.2-0.10.0-dev.20+arne.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48776c347b328e20bec9ddc2fc2d8899a1058127"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2912843
+project-id = 303119

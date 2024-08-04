@@ -1,0 +1,13 @@
+name = "Cornflower"
+filename = "Cornflower-1.2.3+fabric.1.15.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45011beba8a0a6ca2b12744ae1173e4004dd884c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2925096
+project-id = 371456

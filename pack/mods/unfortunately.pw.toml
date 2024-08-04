@@ -1,0 +1,13 @@
+name = "Unfortunately"
+filename = "unfortunately-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "119ea9a4f3d8cea882a548f2bbeaa54f88f2839b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2922169
+project-id = 373581

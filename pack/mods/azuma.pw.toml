@@ -1,0 +1,13 @@
+name = "Azuma"
+filename = "azuma-1.2.6-beta_1.15.2 (1).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3f2154947665ad99b001ab921ade286bc018a2f0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2926612
+project-id = 373883

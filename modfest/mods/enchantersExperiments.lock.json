@@ -1,7 +1,0 @@
-{
-    "type": "voodoo.data.lock.LockEntry.Direct",
-    "common": {
-        "description": "Enchanter's Experiments adds a bunch of new experimental enchantments that can be found in magic gifts."
-    },
-    "url": "https://github.com/Juuxel/ModFest-2020/releases/download/1.0.0/EnchantersExperiments-1.0.0+1.15.2.jar"
-}

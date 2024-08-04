@@ -1,0 +1,13 @@
+name = "lil' Tater"
+filename = "lil-tater-0.9.1-SNAPSHOT.jar"
+side = "both"
+
+[download]
+hash-format = "murmur2"
+hash = "1271156186"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2923013
+project-id = 316794

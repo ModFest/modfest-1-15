@@ -1,0 +1,7 @@
+name = "capybaraCommune"
+filename = "capybara-commune-1.1.jar"
+
+[download]
+url = "https://github.com/mjart/capybara-commune/releases/download/1.1/capybara-commune-1.1.jar"
+hash-format = "sha256"
+hash = "80540723e06e154e03e61b627596076623bc0e24b9d40288c6ae9fa2be84d194"

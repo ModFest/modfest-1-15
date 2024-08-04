@@ -1,0 +1,13 @@
+name = "Lint2"
+filename = "lint-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58add992ba3a7247d664d2604df07eec33225169"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2925915
+project-id = 373071

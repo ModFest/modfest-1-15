@@ -1,0 +1,7 @@
+name = "elementCycle"
+filename = "element-1.0.0.jar"
+
+[download]
+url = "https://github.com/michaelPoul/element/releases/download/v1.0/element-1.0.0.jar"
+hash-format = "sha256"
+hash = "bef70000de2f9c00346439c5ab37817611c49be78c208269ccb0938d3a9ffc7d"

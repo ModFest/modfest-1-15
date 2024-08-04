@@ -1,0 +1,7 @@
+name = "extraDetectors"
+filename = "extradetectors-0.0.3.jar"
+
+[download]
+url = "https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.3/extradetectors-0.0.3.jar"
+hash-format = "sha256"
+hash = "7aa10a5f2014612348c5e277d646fa26894687c0a94b0ad3b2b6b5fe24350e83"

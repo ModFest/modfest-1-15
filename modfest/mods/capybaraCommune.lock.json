@@ -1,7 +1,0 @@
-{
-    "type": "voodoo.data.lock.LockEntry.Direct",
-    "common": {
-        "description": "A Mod which adds the amazing animal 'the Capybara' which chills out all aggressive mobs."
-    },
-    "url": "https://github.com/mjart/capybara-commune/releases/download/1.1/capybara-commune-1.1.jar"
-}

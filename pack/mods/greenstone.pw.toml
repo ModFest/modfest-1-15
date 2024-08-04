@@ -1,0 +1,7 @@
+name = "greenstone"
+filename = "greenstone-circuit-mod-0.0.1.jar"
+
+[download]
+url = "https://github.com/Forkk/Greenstone/releases/download/v0.0.1/greenstone-circuit-mod-0.0.1.jar"
+hash-format = "sha256"
+hash = "89d86183e0fca1a747f5a9b6bcaf0d264e913263d0ba5e930ad6f0dd4e9247cf"

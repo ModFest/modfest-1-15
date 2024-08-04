@@ -1,0 +1,7 @@
+name = "enchantersExperiments"
+filename = "EnchantersExperiments-1.0.0+1.15.2.jar"
+
+[download]
+url = "https://github.com/Juuxel/ModFest-2020/releases/download/1.0.0/EnchantersExperiments-1.0.0+1.15.2.jar"
+hash-format = "sha256"
+hash = "c263115af381454b48e9356b561e01601a05edc7adc67ce2bf19e25eb266e459"

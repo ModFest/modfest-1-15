@@ -1,0 +1,13 @@
+name = "ArchCreatia"
+filename = "archcreatia-mod-0.9.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fbffb9a765f0acf9823011971390c6e4876f0a7b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2925821
+project-id = 373122

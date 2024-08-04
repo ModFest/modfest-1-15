@@ -1,0 +1,7 @@
+name = "overgrownCities"
+filename = "overgrowncities-0.1.0.jar"
+
+[download]
+url = "https://github.com/SuperCoder7979/overgrowncities/releases/download/0.1.0/overgrowncities-0.1.0.jar"
+hash-format = "sha256"
+hash = "2debedb98fec23a85529545b506ccb9d54be28355674e7c78ccea563cd6f814b"

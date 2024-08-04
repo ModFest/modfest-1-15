@@ -1,0 +1,7 @@
+name = "theBlue"
+filename = "the_blue-1.15.2-1.1.jar"
+
+[download]
+url = "https://github.com/RypoFalem/The-Blue/releases/download/1.15.2-1.1/the_blue-1.15.2-1.1.jar"
+hash-format = "sha256"
+hash = "27a3878d3098098b1ee291df1a640a6215c7be3fc558d88cb851e94897ebcc68"

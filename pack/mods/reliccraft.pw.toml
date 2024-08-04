@@ -1,0 +1,13 @@
+name = "RelicCraft"
+filename = "reliccraft-1.0.16+1.15.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e3bf6509b51e7a944cf5001d3b6dbdff2da649d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2927351
+project-id = 373074

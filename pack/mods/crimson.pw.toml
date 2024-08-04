@@ -1,0 +1,7 @@
+name = "crimson"
+filename = "crimson-1.0.4.jar"
+
+[download]
+url = "https://github.com/valoeghese/Crimson/releases/download/v1.0.4/crimson-1.0.4.jar"
+hash-format = "sha256"
+hash = "713725a11d7674f4631f0321267c096019399a4a3c3c06be52b55fe3d3541fe6"

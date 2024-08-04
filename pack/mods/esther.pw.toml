@@ -1,0 +1,13 @@
+name = "Esther"
+filename = "Esther-1.0.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e5b37a9acaa3bac871bc6bb6cf6acc4725cf2ba1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2926654
+project-id = 373394

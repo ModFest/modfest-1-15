@@ -1,0 +1,13 @@
+name = "Campanion"
+filename = "campanion-1.0.7+custom.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3c7b2e85416975ca9bb32c0bdf67cbbcb6766453"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2927295
+project-id = 373138

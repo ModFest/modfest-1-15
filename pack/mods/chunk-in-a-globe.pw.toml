@@ -1,0 +1,13 @@
+name = "Chunk In A Globe"
+filename = "chunk-in-a-globe-1.15.2-1.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8b9d8ae9a4c3c97c7afedfd84e7e68785196b0cf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2925735
+project-id = 371780

@@ -1,0 +1,13 @@
+name = "Tenor: Fabric [Discontinued]"
+filename = "tenor-1.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "72c23240f12663f588ddfbe7f4de3063697747bc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2926144
+project-id = 373504

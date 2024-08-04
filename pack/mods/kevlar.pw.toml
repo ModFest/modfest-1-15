@@ -1,0 +1,7 @@
+name = "kevlar"
+filename = "kevlar-1.0-SNAPSHOT.jar"
+
+[download]
+url = "https://github.com/Earthcomputer/Kevlar/releases/download/v1.0/kevlar-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "0ae70d4c56a5d1eec6f998b1de422a88c31c9463b5d4dd3a27a2b04bf4657a46"

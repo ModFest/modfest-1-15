@@ -1,0 +1,7 @@
+name = "offShorePlus"
+filename = "offshoreplus-0.0.3.jar"
+
+[download]
+url = "https://github.com/trewghil/offshoreplus/releases/download/0.0.3/offshoreplus-0.0.3.jar"
+hash-format = "sha256"
+hash = "bb13a90b44a02e2c8af900955728f46708429d0fdc6adbfa5d5f052d10cb4bac"

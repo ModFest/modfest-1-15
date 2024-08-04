@@ -1,0 +1,13 @@
+name = "Mechanized Steam Power"
+filename = "Mechanized-1.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "972a117042dc842c1b9ba36adcf07ac1c38a1421"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2927574
+project-id = 373653

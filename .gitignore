@@ -1,10 +1,4 @@
-logs/
 .idea/
-.gradle/
-out/
-reports/
-build/
-Thumbs.db
 .DS_Store
-local.properties
-.directory
+
+*.mrpack

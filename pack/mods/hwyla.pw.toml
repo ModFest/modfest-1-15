@@ -1,0 +1,13 @@
+name = "Hwyla"
+filename = "Hwyla-fabric-1.15.2-1.9.21-72.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e82672b8d43845733315824d6c31853b160b939"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2917893
+project-id = 253449

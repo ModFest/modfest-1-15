@@ -1,7 +1,0 @@
-{
-    "type": "voodoo.data.lock.LockEntry.Direct",
-    "common": {
-        "description": "Loads custom mods as \"cassettes\" from WAV files"
-    },
-    "url": "https://github.com/Chocohead/Modjam/releases/download/v0.5/Salts.Mill-0.5.jar"
-}

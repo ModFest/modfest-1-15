@@ -1,0 +1,13 @@
+name = "Fabric Language Kotlin"
+filename = "fabric-language-kotlin-1.3.61+build.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa3e5b2f754384f566c3c0d810865ec3e9662adf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2843142
+project-id = 308769

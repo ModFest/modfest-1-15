@@ -1,0 +1,13 @@
+name = "CustomTitleScreen"
+filename = "customtitlescreen-1.15.2-0.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "48533ddf03269787fc3e9a077b7bd01b8665ae56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2870802
+project-id = 353896

@@ -1,0 +1,7 @@
+name = "compuGlobalHyperMeganet"
+filename = "compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1.jar"
+
+[download]
+url = "https://github.com/immibis/modfest2/releases/download/v1.0.1-modfest/compuglobalhypermeganet-SayNoToBeesYesToSylladices-1.0.1.jar"
+hash-format = "sha256"
+hash = "3ad96f528e8fe4ce34606d72b1481148be5ff41f08b41d5fe79ffaf238fc0f07"
