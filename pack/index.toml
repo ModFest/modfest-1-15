@@ -21,6 +21,10 @@ file = "mods/CrystalModifiers-1.15.2-1.0.0.jar"
 hash = "6e94f24a09ffda1d21608cc5c43761594be43e5c87ab666b4e17cba028ff9dc8"
 
 [[files]]
+file = "mods/LittleRocketMan-1.0.0.jar"
+hash = "f78397e86a4736b7808125c9d5130acaf60db05e6d91db24badc7279e9080105"
+
+[[files]]
 file = "mods/archcreatia.pw.toml"
 hash = "6d8943d06fbd624cd7c41dac1fcaad91c0687fc276b185504b2df5489820d010"
 metafile = true
@@ -31,9 +35,8 @@ hash = "dfa7132c4bbeed4f5502769f1cfba8471e381c49b35cf53b50362f9ba5aefbb0"
 metafile = true
 
 [[files]]
-file = "mods/bruhmoment.pw.toml"
-hash = "5cc9ae9320dbbd17edb5445721e710dd22c43b41a759116725adb84c092023a5"
-metafile = true
+file = "mods/bruh-moment-0.1.2.jar"
+hash = "e5684fa1cd166ef98412ac38ae5d149099efd6c28f1b6bd64613cdb3bef5ab38"
 
 [[files]]
 file = "mods/campanion.pw.toml"
@@ -170,11 +173,6 @@ hash = "9772c1a8a7d0a4c09c39c17f19ae081c6afeb69b1deffa7b5a7c11a877f0bb2e"
 metafile = true
 
 [[files]]
-file = "mods/littlerocketman.pw.toml"
-hash = "780c5832715b385a487403f1fe9345ced3bcb456b4aa2fb1e74fe83b9ec17f14"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "dbbd75916a55a9ae6e9427c391e766d88e7fc2fc757670250ac8e39c42ac2292"
 metafile = true
@@ -219,9 +217,8 @@ hash = "2e2b12c3b11be4c78afc1b7b7306e45210a36c2734c1affc74656cc7c459178b"
 metafile = true
 
 [[files]]
-file = "mods/reichenbach.pw.toml"
-hash = "f2851474a9ec446ea4c3a1ae1fe50e356d5337a36039560e7db854bf7e2f2f5e"
-metafile = true
+file = "mods/reichenbach-0.0.1.jar"
+hash = "1db23c6dc1e09df90b252b2b31adff299c2536ebfc48917218b019c7d647791b"
 
 [[files]]
 file = "mods/reliccraft.pw.toml"
@@ -284,9 +281,8 @@ hash = "09c54a8e36fa22980accf87cc43ec44e63aa40877eb3ae1552b9e17acd6c9837"
 metafile = true
 
 [[files]]
-file = "mods/vantacine.pw.toml"
-hash = "d859bd11491e8ba3b34b8c7960e4f9cf4bcfc718ca214ca0c48fa4ce372baf40"
-metafile = true
+file = "mods/vantacine-1.0.0-pre4.jar"
+hash = "757d7419b283b0fe15e275fe55425c08cb4a2bc9f40853e835b6b778a2ef2e77"
 
 [[files]]
 file = "mods/yungs-better-mineshafts-fabric.pw.toml"
