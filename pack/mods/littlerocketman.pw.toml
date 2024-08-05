@@ -1,7 +1,0 @@
-name = "littleRocketMan"
-filename = "LittleRocketMan-1.0.0.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/528472643221848085/694976720930996344/LittleRocketMan-1.0.0.jar"
-hash-format = "sha256"
-hash = "f78397e86a4736b7808125c9d5130acaf60db05e6d91db24badc7279e9080105"

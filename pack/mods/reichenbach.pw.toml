@@ -1,7 +1,0 @@
-name = "reichenbach"
-filename = "reichenbach-0.0.1.jar"
-
-[download]
-url = "https://cdn.discordapp.com/attachments/696494482698535052/697878335916605572/reichenbach-0.0.1.jar"
-hash-format = "sha256"
-hash = "1db23c6dc1e09df90b252b2b31adff299c2536ebfc48917218b019c7d647791b"
