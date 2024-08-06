@@ -8,16 +8,16 @@ A collaboration between 63 modders, as hosted by <a href="https://modfest.net">M
 
 ---
 
-**ModFest 1.15** was a mod development jam that ran from **March 15th** through **April 5th, 2020**.
+**ModFest 1.15** was a mod development jam that ran from March 15th through April 5th, 2020.
 
-All participants built **in-game mod showcases** on a server that was public from **April 12th** through **May 1st, 2020**!
+This modpack contains all submissions, as well as a showcase world built by participants to show off their mods!
 
 **Key Features**:
 - Witness the dawn of 39 mods, including **Campanion**, **Gravestones**, and **YUNG's Better Mineshafts**!
 - Explore authentic vanilla terrain with mod "booths" scattered left, right, and above!
 - Traverse a map covered in rope bridges, audio cables, and blood-red waters!
 - Become confused at your own inventory functions!
-- Realize there are at least 5 secrets to discover!
+- Discover at least 5 secrets total!
 
 <center>
 <img width="50%" alt="campanion site preview" src="https://cdn.modrinth.com/data/y556zacC/images/f54ebc6d9ffa98455152c9f6c2f960ff0c066385.png"/><br/>
@@ -27,6 +27,7 @@ All participants built **in-game mod showcases** on a server that was public fro
 ---
 
 ModFest is made possible by the modding community.<br/>
-Check out  the [ModFest website](https://modfest.net) or join [our discord](https://discord.gg/gn543Ee) to join our next event live! 
+A full list of credits for each submitted mod can be found on the [submissions page](https://modfest.net/1.15/submissions).
 
-A full list of mod credits for ModFest 1.15 can be found on the [submissions page](https://modfest.net/1.15/submissions).
+This modpack and world was originally showcased on a multiplayer server in the spring of 2020.</br>
+Check out the [ModFest website](https://modfest.net) to see more events, or join [our discord](https://discord.gg/gn543Ee) to tour or participate in the next event live!
