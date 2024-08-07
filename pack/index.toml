@@ -246,9 +246,8 @@ hash = "2c768fbaaa8319397b06b5e3750c8d8cf9135a9519cc784846a5b98855765551"
 metafile = true
 
 [[files]]
-file = "mods/tacocraft-fabric.pw.toml"
-hash = "6cc778ee53f5176e8d2be4a9900cb3d24b565b04518179b9206fdeb48b8deac6"
-metafile = true
+file = "mods/tacocraft-1.1.1.jar"
+hash = "2f885afc839395b4e05886ead0ea2741feaebc72f7578c958c503b211edab249"
 
 [[files]]
 file = "mods/techreborn.pw.toml"
