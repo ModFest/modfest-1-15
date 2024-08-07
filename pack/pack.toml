@@ -1,12 +1,12 @@
-name = "modfest 1.15"
-author = "LemmaEOF"
-version = "1.0.0+modrinth_release"
+name = "ModFest 1.15"
+author = "ModFest"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "270150d8155cb4b6eb2e01a77da6ca055224edd3f86166f9f539c4e32f00b488"
+hash = "f210e20e48bfc4598b0a40d885a6fb5ab29e4dcac2b859b2f11de425a0af5c69"
 
 [versions]
 fabric = "0.8.2+build.194"

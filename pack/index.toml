@@ -288,7 +288,3 @@ hash = "757d7419b283b0fe15e275fe55425c08cb4a2bc9f40853e835b6b778a2ef2e77"
 file = "mods/yungs-better-mineshafts-fabric.pw.toml"
 hash = "477c7bb81946eb16f1d47e5caf9362d691d98a003567da86c0abccecf3d233bc"
 metafile = true
-
-[[files]]
-file = "servers.dat"
-hash = "c971db020b0308fb420f9ceb519cf8a741226592ef26e9b7cea3bdd20fc8ab95"
