@@ -17,6 +17,10 @@ file = "config/cts/config.json5"
 hash = "2887df8df4bf45e33e59747433349b7441eaf4966917ab4a6f382d1d7f35c663"
 
 [[files]]
+file = "eula.txt"
+hash = "a9704fce93a62d70fd318aa96cb65c682cafd9c4b08d3cfead4fe93f34e8c889"
+
+[[files]]
 file = "mods/CrystalModifiers-1.15.2-1.0.0.jar"
 hash = "6e94f24a09ffda1d21608cc5c43761594be43e5c87ab666b4e17cba028ff9dc8"
 
@@ -287,3 +291,15 @@ hash = "757d7419b283b0fe15e275fe55425c08cb4a2bc9f40853e835b6b778a2ef2e77"
 file = "mods/yungs-better-mineshafts-fabric.pw.toml"
 hash = "477c7bb81946eb16f1d47e5caf9362d691d98a003567da86c0abccecf3d233bc"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "824410f78999ca73df9d26159cd546fb41853e2beb8c94df6bcc6b1ae4a095b8"
+
+[[files]]
+file = "server-icon.png"
+hash = "a509f4a96b17824c9fa312aee3e53550370a8dffe5ec16803884823dbbfe3469"
+
+[[files]]
+file = "server.properties"
+hash = "34ae9f00e58228a3a511bf6b642f35f3505a7e8d97b56530b587e38d94db7300"
