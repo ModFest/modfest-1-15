@@ -108,8 +108,13 @@ hash = "76b02d984b63b64403389c4979756ac6789777cc7301e1c4c2373651d77f6132"
 metafile = true
 
 [[files]]
-file = "mods/extradetectors.pw.toml"
-hash = "469add5c856f84768c83cf4d7d3389f95f29d529a7ffa0a9b697f9ea7a46d9f0"
+file = "mods/extradetectors-client.pw.toml"
+hash = "86da8ab05c018d3aa379281be766b03921fd5bd974b0b279da27f74c6a5e2fca"
+metafile = true
+
+[[files]]
+file = "mods/extradetectors-server.pw.toml"
+hash = "00f5cf11e0b6e71d4eda80fe4452a01b9d8ce41434bf6946045e298c13481f5a"
 metafile = true
 
 [[files]]
@@ -234,6 +239,10 @@ metafile = true
 file = "mods/roughly-enough-items.pw.toml"
 hash = "50e7529ab0fc55fb77035e8f9afd8343f43122d2039f0c57bea1e8f4d1d8134a"
 metafile = true
+
+[[files]]
+file = "mods/rrp-2.0.2-saikopatch.jar"
+hash = "ec0b1f0b48885c7bc5da13a52422804a96920faec50284f28592218dbcfb08cd"
 
 [[files]]
 file = "mods/saltsmill.pw.toml"
