@@ -1,5 +1,6 @@
 name = "extraDetectors"
 filename = "extradetectors-0.0.3.jar"
+side = "client"
 
 [download]
 url = "https://github.com/ExtraCrafTX/ExtraDetectors/releases/download/v0.0.3/extradetectors-0.0.3.jar"
