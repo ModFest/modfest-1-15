@@ -17,10 +17,6 @@ file = "config/cts/config.json5"
 hash = "2887df8df4bf45e33e59747433349b7441eaf4966917ab4a6f382d1d7f35c663"
 
 [[files]]
-file = "eula.txt"
-hash = "a9704fce93a62d70fd318aa96cb65c682cafd9c4b08d3cfead4fe93f34e8c889"
-
-[[files]]
 file = "mods/CrystalModifiers-1.15.2-1.0.0.jar"
 hash = "6e94f24a09ffda1d21608cc5c43761594be43e5c87ab666b4e17cba028ff9dc8"
 
@@ -294,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "824410f78999ca73df9d26159cd546fb41853e2beb8c94df6bcc6b1ae4a095b8"
+hash = "89a2024a3b0a39e0c7f04302bd2da815ef83d79d2c6081d84f657c6bc473189b"
 
 [[files]]
 file = "server-icon.png"
