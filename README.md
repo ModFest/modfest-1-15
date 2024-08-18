@@ -1,5 +1,5 @@
 <!--suppress HtmlDeprecatedTag, XmlDeprecatedElement -->
-<center><img alt="world preview" src="https://cdn.modrinth.com/data/y556zacC/images/85d619e531b1fdcadfb0414105996ac6d79f5b1a.png" /></center>
+<center><img alt="world preview" src="https://cdn.modrinth.com/data/y556zacC/images/51b6441a379bb320757c0d79fec9596662c57342.png" /></center>
 
 <center>
 Exploration, Industry, Magic!<br/>
